@@ -1,0 +1,501 @@
+account_id,account_name,industry,segment,region,cs_manager_id,sales_rep_id,initial_contract_date,renewal_date,churn_date,status,health_score,nps_score,last_nps_date,total_users,avg_weekly_usage_rate,support_tickets_last_qtr,feature_adoption_index,expansion_revenue,contract_value_ARR,onboarding_completion_days,primary_use_case,sales_win_reason,churn_reason,product_feedback_flag,csat_score_last_6mo
+AC1000,"Hunter, Reeves and Ray",Retail,SMB,EMEA,CSM31,SR10,2022-12-05,2023-05-04,,At Risk,64.9,50,2023-07-18,364,0.56,35,0.89,45639.84,190550.88,56,Workflow Automation,Ease of Use,,False,4.9
+AC1001,Luna PLC,Technology,SMB,LATAM,CSM34,SR46,2022-01-02,2024-10-17,,Active,61.1,-100,2024-04-30,429,0.57,35,0.83,45144.41,54528.41,39,Workflow Automation,Ease of Use,,True,4.3
+AC1002,Larsen-Hopkins,Technology,Mid-Market,NA,CSM44,SR14,2022-09-22,2023-02-10,,At Risk,85.1,-50,2023-05-08,465,0.88,32,0.55,22274.13,18630.77,13,Data Integration,Integration Capabilities,,False,4.2
+AC1003,"Mclean, Luna and Boyle",Healthcare,Enterprise,LATAM,CSM44,SR20,2022-11-17,2024-03-26,,At Risk,78.8,20,2023-06-09,423,0.53,0,0.66,37290.22,146686.26,7,Communication,Cost,,False,4.6
+AC1004,"Rodriguez, Calderon and Navarro",Technology,SMB,NA,CSM31,SR3,2022-11-08,2024-08-28,,Active,70.0,0,2024-07-20,397,0.73,41,0.64,48916.66,163240.8,31,Compliance,Integration Capabilities,,False,3.9
+AC1005,"Hill, Estes and Watkins",Education,Mid-Market,NA,CSM44,SR43,2022-04-29,2023-10-04,,Active,85.2,30,2023-10-18,65,0.56,11,0.87,49642.34,101299.36,13,Workflow Automation,Product Features,,False,4.3
+AC1006,Sawyer and Sons,Finance,Mid-Market,LATAM,CSM35,SR25,2022-03-03,2023-06-04,,Active,60.9,70,2023-12-07,182,1.0,9,0.63,13782.49,234665.54,51,Analytics,Product Features,,False,3.6
+AC1007,Robinson-Serrano,Education,Enterprise,NA,CSM16,SR14,2022-05-17,2024-11-22,2024-12-07,Churned,91.6,100,2023-11-18,22,0.8,28,0.25,29889.24,177305.14,8,Workflow Automation,Product Features,Internal Decision,False,3.7
+AC1008,"Joseph, Hart and Turner",Technology,SMB,NA,CSM9,SR33,2022-04-30,2023-01-26,,Active,79.2,100,2024-12-24,168,0.27,36,0.62,29895.88,169770.32,25,Workflow Automation,Cost,,False,4.1
+AC1009,Perry Ltd,Manufacturing,Enterprise,EMEA,CSM27,SR20,2022-08-14,2024-10-21,,Active,57.2,50,2024-11-03,289,0.75,31,0.6,2344.2,89381.63,46,Communication,Reputation,,True,3.4
+AC1010,Webb-Mayer,Education,Mid-Market,EMEA,CSM20,SR25,2022-01-20,2024-01-27,2024-05-15,Churned,88.8,90,2024-08-08,247,0.87,15,0.54,42467.05,78680.42,50,Workflow Automation,Integration Capabilities,Budget,False,3.9
+AC1011,"Davis, Howard and Goodwin",Education,Enterprise,EMEA,CSM25,SR16,2022-05-17,2023-05-10,,At Risk,85.9,-50,2023-06-23,477,0.66,28,0.21,42356.67,27653.68,51,Workflow Automation,Product Features,,True,4.2
+AC1012,Velez-Mcintosh,Manufacturing,Enterprise,NA,CSM5,SR13,2022-11-23,2024-01-08,,Active,62.8,70,2023-11-02,111,0.62,21,0.89,15159.4,227703.57,18,Workflow Automation,Product Features,,False,3.9
+AC1013,"Myers, Ward and Garcia",Education,SMB,EMEA,CSM26,SR16,2022-05-24,2023-07-14,,At Risk,75.0,50,2024-06-10,243,0.8,34,0.7,32436.07,80563.46,28,Data Integration,Integration Capabilities,,False,3.5
+AC1014,Coleman-Gutierrez,Manufacturing,Mid-Market,APAC,CSM14,SR24,2022-09-07,2024-11-18,,Active,74.1,100,2024-01-18,447,0.71,14,0.65,37062.62,8973.88,40,Data Integration,Reputation,,False,4.1
+AC1015,Olsen-Ross,Finance,SMB,EMEA,CSM22,SR15,2022-07-17,2023-11-24,,Active,100.0,70,2023-04-10,286,0.46,41,0.8,47173.23,87703.25,53,Communication,Integration Capabilities,,False,4.6
+AC1016,"Saunders, Evans and Booker",Manufacturing,Mid-Market,EMEA,CSM9,SR47,2022-09-03,2024-03-16,,Active,82.4,90,2023-08-02,333,0.57,3,0.93,26197.22,210571.78,9,Analytics,Product Features,,False,2.9
+AC1017,Smith-Woods,Manufacturing,SMB,NA,CSM46,SR10,2022-05-31,2024-05-30,2024-07-19,Churned,64.8,90,2023-04-13,238,0.93,23,0.53,3022.51,161243.5,44,Communication,Integration Capabilities,Budget,True,4.8
+AC1018,Campbell-Gonzalez,Technology,Mid-Market,NA,CSM2,SR34,2022-03-11,2024-01-07,,At Risk,52.3,-100,2024-06-20,262,0.48,44,0.49,33701.65,202511.09,16,Analytics,Product Features,,False,4.2
+AC1019,"Johnson, Hancock and Bridges",Retail,SMB,APAC,CSM23,SR18,2022-10-22,2023-03-17,,Active,71.7,30,2023-10-12,496,0.6,25,0.88,22949.89,64585.93,49,Workflow Automation,Cost,,False,4.8
+AC1020,Murphy-Olson,Healthcare,Enterprise,NA,CSM6,SR26,2022-05-20,2024-01-07,,At Risk,68.8,-100,2024-10-25,331,0.36,0,0.17,35142.26,25258.1,59,Communication,Cost,,False,4.1
+AC1021,"Sparks, Watson and Martinez",Healthcare,Enterprise,NA,CSM15,SR14,2022-04-23,2023-07-30,,At Risk,84.8,20,2023-09-07,28,0.71,4,0.59,34221.44,73691.39,39,Data Integration,Product Features,,True,3.6
+AC1022,Johnson Inc,Finance,SMB,EMEA,CSM38,SR10,2022-05-03,2023-01-31,,At Risk,84.8,-50,2023-11-27,158,1.0,10,0.16,28197.91,143840.5,59,Communication,Reputation,,True,4.0
+AC1023,Morris PLC,Manufacturing,SMB,NA,CSM33,SR48,2022-10-20,2024-06-24,,Active,60.4,-50,2023-10-10,228,0.4,14,0.37,41933.73,88445.22,54,Data Integration,Reputation,,True,4.2
+AC1024,"Davis, Stewart and Bryant",Finance,SMB,APAC,CSM29,SR32,2022-02-27,2023-06-29,2023-11-27,Churned,81.1,90,2023-05-31,486,0.99,24,0.6,21592.4,171525.24,47,Communication,Product Features,,True,3.1
+AC1025,Decker-Martinez,Retail,Enterprise,NA,CSM6,SR18,2022-12-12,2024-10-31,2024-11-18,Churned,71.4,0,2023-04-06,383,0.42,24,0.36,15833.91,31104.97,5,Compliance,Integration Capabilities,Missing Feature,False,4.3
+AC1026,"White, Watson and Daniels",Healthcare,SMB,NA,CSM12,SR28,2022-11-06,2024-02-27,,At Risk,77.9,-50,2023-06-10,18,0.82,5,0.53,17695.71,27800.74,43,Compliance,Integration Capabilities,,True,4.4
+AC1027,"Roach, Cooke and Lewis",Education,Mid-Market,NA,CSM47,SR36,2022-05-16,2024-08-30,,Active,68.8,100,2023-12-21,271,0.92,10,0.67,34265.8,46527.93,22,Compliance,Cost,,False,3.9
+AC1028,Ibarra-Payne,Healthcare,SMB,LATAM,CSM18,SR27,2022-09-29,2024-08-11,,Active,78.2,30,2023-12-13,133,0.7,15,0.92,36044.97,126471.6,44,Workflow Automation,Integration Capabilities,,True,4.1
+AC1029,"Kennedy, Reed and Torres",Finance,SMB,LATAM,CSM22,SR40,2022-04-22,2024-02-24,,At Risk,75.0,70,2024-01-08,176,0.65,27,0.77,40773.77,215579.57,43,Workflow Automation,Cost,,True,4.4
+AC1030,Graves-Thomas,Manufacturing,SMB,LATAM,CSM21,SR12,2022-10-19,2024-03-13,,At Risk,70.9,20,2023-03-03,381,0.47,44,0.42,31645.12,242101.96,55,Workflow Automation,Cost,,True,3.9
+AC1031,"Aguirre, Scott and Anderson",Education,Mid-Market,NA,CSM37,SR13,2022-05-06,2023-10-05,,Active,95.2,90,2024-12-17,18,0.65,46,0.48,23081.11,178549.93,33,Compliance,Product Features,,False,3.1
+AC1032,"Chaney, Richard and Brown",Education,Enterprise,LATAM,CSM9,SR41,2022-01-18,2023-08-15,,At Risk,97.7,0,2023-03-29,371,0.81,27,0.76,39453.84,23121.46,43,Communication,Reputation,,False,4.5
+AC1033,Burke Inc,Technology,Enterprise,LATAM,CSM35,SR3,2022-05-14,2023-09-25,,At Risk,72.5,90,2024-05-14,309,0.72,40,0.9,45720.06,31795.51,20,Compliance,Ease of Use,,False,4.1
+AC1034,Matthews LLC,Healthcare,Enterprise,LATAM,CSM49,SR22,2022-05-28,2024-09-28,,At Risk,83.8,-50,2024-02-23,10,0.87,6,0.73,12936.92,130115.68,38,Data Integration,Reputation,,False,3.9
+AC1035,Davis Ltd,Retail,Mid-Market,APAC,CSM26,SR30,2022-05-25,2023-03-29,,Active,74.5,30,2023-04-20,17,0.86,30,0.76,5227.47,106913.98,10,Analytics,Ease of Use,,True,4.6
+AC1036,"Curry, Rivera and Garcia",Finance,Mid-Market,EMEA,CSM34,SR31,2022-01-02,2024-01-30,,Active,83.3,70,2023-06-17,374,0.82,44,0.51,22622.36,21457.71,7,Analytics,Product Features,,False,3.7
+AC1037,Watson Inc,Manufacturing,SMB,EMEA,CSM48,SR16,2022-03-25,2023-11-21,,Active,86.7,30,2023-09-12,291,0.59,27,0.6,47923.13,61804.61,30,Workflow Automation,Ease of Use,,False,4.7
+AC1038,"Hernandez, Cole and Bennett",Education,Mid-Market,NA,CSM48,SR40,2022-08-16,2024-11-09,,At Risk,93.3,100,2024-02-23,224,0.76,24,0.54,222.5,57625.05,22,Analytics,Reputation,,True,3.9
+AC1039,"Hodge, Vaughan and Hickman",Technology,SMB,APAC,CSM21,SR13,2022-05-26,2023-02-28,,At Risk,88.0,70,2024-01-02,275,0.69,40,0.49,15670.21,100216.62,30,Data Integration,Product Features,,True,4.6
+AC1040,"Barrett, Moore and Morris",Education,Enterprise,EMEA,CSM44,SR46,2022-11-13,2024-07-20,,Active,77.7,0,2023-12-26,165,0.58,7,0.7,11928.64,33652.48,28,Workflow Automation,Reputation,,True,4.5
+AC1041,"Reed, Cowan and Guerrero",Technology,SMB,LATAM,CSM28,SR12,2022-07-28,2023-02-26,,Active,59.9,90,2024-05-08,90,0.66,31,0.55,14441.74,50839.15,58,Communication,Reputation,,True,4.2
+AC1042,Soto-Kim,Finance,SMB,LATAM,CSM9,SR13,2022-07-22,2024-04-25,,At Risk,84.5,50,2023-06-02,355,0.59,31,0.3,20781.52,210773.49,36,Workflow Automation,Product Features,,False,4.5
+AC1043,"Sanchez, Archer and Espinoza",Retail,Mid-Market,NA,CSM18,SR15,2022-10-21,2024-03-28,,Active,58.2,70,2023-02-19,294,0.75,47,0.57,38627.38,126351.77,37,Analytics,Reputation,,True,4.1
+AC1044,Todd Group,Technology,Mid-Market,NA,CSM49,SR47,2022-11-29,2024-07-28,,Active,99.8,50,2023-11-21,57,1.0,47,0.27,41503.54,189079.65,24,Analytics,Integration Capabilities,,True,4.5
+AC1045,Watson LLC,Healthcare,Mid-Market,NA,CSM50,SR16,2022-01-24,2023-02-22,2023-08-08,Churned,72.7,100,2023-03-24,357,0.91,22,0.79,43052.43,154514.14,32,Workflow Automation,Reputation,Competitor,False,4.7
+AC1046,"Watson, Burns and Anthony",Retail,SMB,APAC,CSM35,SR18,2022-04-15,2023-06-06,,Active,79.3,30,2023-07-29,365,0.52,18,0.79,14466.66,70499.05,59,Data Integration,Product Features,,True,4.1
+AC1047,Williamson PLC,Education,SMB,APAC,CSM42,SR9,2022-01-25,2024-09-24,,Active,71.5,10,2023-07-23,79,0.6,45,0.8,16104.84,65650.91,58,Communication,Integration Capabilities,,True,4.8
+AC1048,Jones-Holt,Manufacturing,Mid-Market,LATAM,CSM25,SR29,2022-07-09,2024-01-20,2024-06-30,Churned,57.1,-50,2024-04-22,211,0.82,32,0.53,37490.12,175202.39,28,Communication,Integration Capabilities,Missing Feature,False,3.3
+AC1049,Ferguson-Mcclain,Manufacturing,SMB,LATAM,CSM41,SR43,2022-07-06,2024-07-29,,Active,77.2,90,2024-08-14,208,0.53,13,0.28,48406.43,207087.67,36,Compliance,Cost,,False,3.6
+AC1050,"Mcintosh, Diaz and Hubbard",Finance,Enterprise,EMEA,CSM37,SR32,2022-09-01,2023-07-28,,Active,59.6,-100,2023-01-10,55,0.57,40,0.33,39194.49,117597.53,12,Workflow Automation,Integration Capabilities,,False,3.8
+AC1051,Dillon Group,Education,SMB,EMEA,CSM42,SR20,2022-07-22,2024-10-07,2024-12-17,Churned,64.3,20,2023-11-11,52,0.78,41,0.72,18021.77,25193.03,47,Workflow Automation,Product Features,Internal Decision,False,4.1
+AC1052,"Berry, Sanchez and Jackson",Manufacturing,Enterprise,EMEA,CSM28,SR42,2022-06-22,2024-09-17,2024-10-07,Churned,71.5,-50,2024-11-18,5,0.65,13,0.43,23840.34,37511.45,19,Data Integration,Integration Capabilities,Budget,True,3.6
+AC1053,"Navarro, Lane and Ward",Finance,SMB,LATAM,CSM45,SR9,2022-03-21,2023-06-14,,Active,85.6,50,2024-01-20,50,0.35,46,0.58,40297.84,30284.38,28,Compliance,Ease of Use,,True,3.8
+AC1054,Golden PLC,Retail,Enterprise,EMEA,CSM5,SR34,2022-04-30,2023-05-09,,Active,84.0,70,2024-04-12,184,0.41,46,0.6,10652.77,188325.86,31,Data Integration,Integration Capabilities,,False,4.2
+AC1055,Booth-Gonzalez,Healthcare,SMB,EMEA,CSM49,SR8,2022-06-05,2024-11-14,,At Risk,46.4,30,2023-12-30,498,0.49,27,0.58,15725.18,39258.4,22,Analytics,Ease of Use,,False,4.3
+AC1056,"Robertson, Crosby and Brooks",Technology,Enterprise,APAC,CSM50,SR45,2022-05-04,2024-04-23,2024-11-25,Churned,77.7,20,2024-01-07,110,0.81,33,0.38,30346.34,51218.4,30,Compliance,Product Features,Competitor,False,3.2
+AC1057,Mccarthy-Tran,Healthcare,SMB,LATAM,CSM41,SR39,2022-03-25,2024-12-06,2024-12-25,Churned,76.3,-100,2024-01-08,189,0.45,20,0.43,6599.14,215899.43,41,Communication,Cost,,False,4.5
+AC1058,"Nicholson, Baker and Miller",Education,SMB,NA,CSM38,SR5,2022-01-20,2023-03-01,2023-08-05,Churned,77.8,10,2023-02-15,25,0.59,3,0.46,47434.0,102503.88,23,Data Integration,Integration Capabilities,Internal Decision,False,4.3
+AC1059,"Shepherd, Morris and Smith",Healthcare,Enterprise,EMEA,CSM18,SR6,2022-12-26,2024-03-03,,Active,78.2,0,2024-06-10,279,0.46,20,0.21,19536.58,160402.09,58,Analytics,Cost,,False,4.9
+AC1060,Brown Ltd,Manufacturing,SMB,NA,CSM16,SR6,2022-10-05,2024-08-10,,Active,56.7,70,2024-09-26,318,0.81,38,0.9,2751.43,168189.5,47,Workflow Automation,Product Features,,True,4.1
+AC1061,Lopez LLC,Retail,Enterprise,NA,CSM11,SR32,2022-01-19,2023-02-03,,At Risk,66.0,0,2024-01-04,195,0.41,8,0.31,37488.82,218997.71,51,Analytics,Product Features,,True,4.2
+AC1062,"Miller, Moore and Ward",Education,Mid-Market,NA,CSM17,SR46,2022-04-17,2023-02-08,,Active,96.8,70,2024-10-19,238,0.62,32,0.49,18006.19,127404.45,41,Workflow Automation,Cost,,True,4.3
+AC1063,Smith-Jacobs,Healthcare,Enterprise,NA,CSM15,SR48,2022-03-01,2023-06-14,,Active,64.7,-100,2023-05-01,130,0.75,2,0.61,23588.23,98829.97,14,Workflow Automation,Product Features,,False,3.8
+AC1064,"Rasmussen, Smith and Johnson",Manufacturing,Enterprise,LATAM,CSM15,SR21,2022-07-08,2023-02-08,2024-11-04,Churned,74.8,30,2024-12-16,143,1.0,4,0.72,28576.8,34253.23,48,Analytics,Ease of Use,Competitor,False,4.5
+AC1065,"Cunningham, Jenkins and Ruiz",Healthcare,Mid-Market,NA,CSM30,SR19,2022-12-07,2023-10-14,,At Risk,61.2,30,2023-04-20,49,0.92,35,0.73,22837.31,95385.24,23,Data Integration,Cost,,False,3.3
+AC1066,Fischer-Calderon,Retail,Mid-Market,APAC,CSM38,SR32,2022-12-28,2023-07-21,,Active,83.1,90,2023-08-09,394,0.6,50,0.29,12256.34,6562.58,31,Analytics,Ease of Use,,False,4.1
+AC1067,Schultz Inc,Manufacturing,Enterprise,NA,CSM22,SR1,2022-11-20,2024-07-22,,At Risk,83.1,20,2024-08-29,58,0.73,13,0.58,26490.72,63351.06,36,Analytics,Ease of Use,,False,3.8
+AC1068,Miller-Haley,Healthcare,SMB,EMEA,CSM34,SR27,2022-10-11,2023-11-19,,At Risk,100.0,70,2023-10-27,387,0.46,5,0.77,29038.53,128829.8,45,Communication,Product Features,,False,4.0
+AC1069,Clark-Logan,Healthcare,Mid-Market,EMEA,CSM16,SR19,2022-09-11,2024-09-08,,At Risk,62.2,50,2023-10-13,363,0.69,47,0.32,16312.58,115925.67,19,Analytics,Ease of Use,,True,3.7
+AC1070,"Pitts, Young and Duarte",Technology,SMB,EMEA,CSM7,SR11,2022-08-05,2023-03-25,,At Risk,74.3,50,2024-07-08,66,0.39,34,0.7,17914.37,193732.5,33,Compliance,Integration Capabilities,,True,3.5
+AC1071,Kane Group,Healthcare,SMB,EMEA,CSM44,SR20,2022-01-27,2024-02-08,,Active,53.2,10,2024-08-29,432,0.48,20,1.0,7416.19,179233.56,27,Communication,Reputation,,True,3.0
+AC1072,"Miller, Smith and Weeks",Finance,Mid-Market,EMEA,CSM2,SR26,2022-01-14,2023-05-10,,Active,81.5,-50,2023-08-25,241,0.55,6,0.53,40194.84,39249.29,5,Analytics,Ease of Use,,True,4.3
+AC1073,Vargas PLC,Education,Mid-Market,NA,CSM38,SR38,2022-06-02,2023-08-31,,Active,83.3,-100,2023-11-12,38,0.56,12,0.33,45124.8,113640.67,13,Analytics,Cost,,True,4.3
+AC1074,Perez and Sons,Education,SMB,EMEA,CSM37,SR28,2022-01-22,2024-01-24,,At Risk,83.3,70,2023-09-24,20,0.64,24,0.69,34160.65,47337.77,18,Workflow Automation,Cost,,True,3.8
+AC1075,"Fisher, Vaughn and White",Retail,SMB,EMEA,CSM42,SR19,2022-10-08,2024-05-19,,At Risk,62.6,-100,2023-03-06,49,0.7,17,0.7,19150.76,107712.53,46,Data Integration,Ease of Use,,False,4.2
+AC1076,"Robbins, Salinas and Potts",Technology,SMB,LATAM,CSM46,SR23,2022-02-11,2024-02-15,,At Risk,82.6,30,2023-05-25,472,0.55,36,0.92,25119.66,100153.41,16,Analytics,Cost,,False,3.8
+AC1077,Villanueva Inc,Healthcare,Mid-Market,NA,CSM31,SR34,2022-12-16,2024-03-25,,Active,73.2,0,2024-10-07,56,0.44,15,0.56,32843.22,70299.12,57,Analytics,Ease of Use,,False,4.3
+AC1078,Bray LLC,Education,Mid-Market,EMEA,CSM12,SR16,2022-01-12,2024-01-28,,At Risk,86.4,100,2023-06-06,19,1.0,45,0.7,35028.04,237151.89,41,Workflow Automation,Reputation,,False,4.1
+AC1079,"Martin, Greer and Galloway",Education,Enterprise,APAC,CSM12,SR32,2022-01-03,2023-05-31,2023-10-01,Churned,68.3,-100,2024-06-04,124,0.57,38,0.79,10940.45,133979.89,5,Compliance,Reputation,Competitor,False,4.5
+AC1080,Bautista-Morales,Finance,Enterprise,EMEA,CSM21,SR4,2022-07-11,2023-04-13,2023-09-25,Churned,58.8,100,2024-06-25,365,0.84,9,0.73,38718.32,212387.82,60,Compliance,Product Features,Missing Feature,False,3.4
+AC1081,Oconnor-Smith,Manufacturing,Mid-Market,NA,CSM22,SR20,2022-03-21,2024-05-16,,Active,83.1,50,2024-09-03,410,0.49,40,0.11,48033.11,164049.17,16,Data Integration,Reputation,,False,3.9
+AC1082,Thomas-Hayes,Retail,Enterprise,EMEA,CSM25,SR20,2022-04-02,2023-02-03,,At Risk,78.9,0,2024-01-01,95,0.68,46,1.0,89.9,176992.07,41,Communication,Reputation,,True,4.2
+AC1083,"Butler, Ross and Johnson",Technology,Mid-Market,EMEA,CSM41,SR37,2022-01-12,2024-08-31,2024-10-06,Churned,77.2,70,2024-11-09,77,0.79,21,0.51,37267.17,63309.0,25,Workflow Automation,Product Features,Missing Feature,False,4.5
+AC1084,Hall LLC,Finance,SMB,EMEA,CSM45,SR5,2022-08-24,2023-06-19,,Active,80.4,-100,2023-02-27,29,0.76,24,0.48,21911.01,107815.04,15,Communication,Integration Capabilities,,False,3.2
+AC1085,Bennett Ltd,Finance,Enterprise,LATAM,CSM7,SR31,2022-08-21,2023-11-24,,Active,67.5,0,2023-04-04,236,0.76,4,0.51,39959.73,13186.13,6,Compliance,Cost,,False,4.1
+AC1086,Miller-Oconnor,Healthcare,Mid-Market,EMEA,CSM25,SR11,2022-09-28,2024-01-15,,Active,71.5,30,2023-02-21,309,0.79,39,0.4,44661.31,177603.64,32,Workflow Automation,Reputation,,False,4.1
+AC1087,"Mitchell, Cook and Barron",Retail,SMB,NA,CSM22,SR14,2022-03-20,2024-05-19,,At Risk,65.4,90,2024-06-06,374,0.39,46,0.57,27006.27,166846.48,24,Workflow Automation,Product Features,,True,4.8
+AC1088,Roberson-Gonzalez,Technology,Enterprise,LATAM,CSM10,SR4,2022-07-24,2024-11-26,,At Risk,53.1,-50,2024-08-15,155,0.72,42,0.76,31254.55,122680.46,11,Analytics,Ease of Use,,True,5.0
+AC1089,"Guerra, Martin and Andersen",Finance,SMB,LATAM,CSM8,SR20,2022-07-11,2023-04-13,,At Risk,67.6,70,2023-01-28,463,0.57,42,0.37,13250.22,162257.26,29,Workflow Automation,Cost,,False,4.6
+AC1090,Wilkinson-Harris,Finance,SMB,LATAM,CSM3,SR17,2022-04-03,2023-11-27,,At Risk,62.0,10,2023-05-25,433,0.63,17,0.23,28212.33,42027.02,49,Analytics,Product Features,,False,4.4
+AC1091,Williams Ltd,Technology,Mid-Market,EMEA,CSM36,SR4,2022-08-07,2024-11-08,,At Risk,92.4,90,2024-04-07,356,0.87,30,0.28,28635.71,62732.29,24,Analytics,Integration Capabilities,,False,4.3
+AC1092,Wilson and Sons,Manufacturing,SMB,EMEA,CSM8,SR49,2022-05-06,2024-07-10,,Active,49.9,10,2024-01-05,418,0.71,12,0.64,6309.3,108726.85,48,Communication,Ease of Use,,False,4.2
+AC1093,"Lewis, Martin and Shields",Manufacturing,SMB,APAC,CSM21,SR47,2022-07-02,2024-12-11,,Active,83.0,-50,2023-05-13,203,0.7,35,0.21,19867.75,84901.07,22,Data Integration,Integration Capabilities,,False,4.3
+AC1094,"Ramirez, Spencer and Cross",Healthcare,Enterprise,LATAM,CSM8,SR27,2022-08-22,2023-01-24,2023-08-04,Churned,76.5,100,2024-06-18,306,0.52,37,0.29,37918.87,235214.25,11,Data Integration,Product Features,Missing Feature,False,4.8
+AC1095,Johnson-Deleon,Finance,Mid-Market,APAC,CSM25,SR42,2022-10-14,2024-05-25,,At Risk,93.5,-100,2024-10-26,93,0.84,17,0.46,20148.7,156469.9,48,Communication,Product Features,,True,2.7
+AC1096,Juarez-Scott,Finance,Enterprise,EMEA,CSM4,SR48,2022-03-13,2024-08-30,,At Risk,86.5,30,2023-03-15,15,0.77,21,0.53,40869.3,79248.46,22,Communication,Product Features,,False,4.6
+AC1097,Smith-Nguyen,Retail,SMB,APAC,CSM48,SR29,2022-05-22,2023-12-26,,At Risk,87.7,20,2023-02-22,378,0.74,26,0.61,30248.96,26875.28,33,Workflow Automation,Integration Capabilities,,False,4.0
+AC1098,"Montgomery, Rogers and Case",Technology,Mid-Market,NA,CSM33,SR11,2022-08-27,2023-11-19,2024-01-12,Churned,85.2,90,2024-09-30,211,0.53,8,0.69,39025.82,133450.12,41,Analytics,Ease of Use,Competitor,False,3.5
+AC1099,Clark LLC,Retail,SMB,EMEA,CSM3,SR30,2022-10-18,2024-07-27,2024-08-11,Churned,95.0,30,2023-08-20,365,0.81,12,0.46,13698.87,206759.04,37,Communication,Product Features,Budget,True,4.0
+AC1100,Holmes-Cook,Education,Enterprise,LATAM,CSM12,SR31,2022-03-13,2023-05-18,,At Risk,62.2,30,2023-12-04,88,1.0,16,0.92,37448.06,173768.38,23,Analytics,Integration Capabilities,,True,4.3
+AC1101,"Guerrero, Merritt and Leach",Technology,SMB,EMEA,CSM42,SR15,2022-02-10,2023-03-13,,At Risk,98.3,50,2024-11-27,267,0.73,1,0.75,43231.5,241948.9,48,Analytics,Integration Capabilities,,False,4.6
+AC1102,Oconnor and Sons,Manufacturing,SMB,NA,CSM15,SR17,2022-12-04,2024-11-02,,At Risk,74.9,20,2024-02-25,221,0.71,24,0.79,42579.31,117454.51,18,Communication,Cost,,False,4.3
+AC1103,Cantu Inc,Technology,Mid-Market,NA,CSM1,SR33,2022-03-26,2023-09-18,,At Risk,63.7,90,2023-05-02,336,0.26,38,0.56,30452.51,78126.6,11,Communication,Product Features,,True,3.0
+AC1104,Smith-West,Finance,Enterprise,APAC,CSM18,SR17,2022-07-01,2024-04-24,,At Risk,60.1,10,2024-03-01,81,0.53,33,0.49,38273.72,225423.33,56,Data Integration,Integration Capabilities,,False,4.4
+AC1105,Porter-Alvarez,Manufacturing,SMB,NA,CSM42,SR32,2022-03-08,2024-01-26,,At Risk,90.6,50,2023-06-17,212,0.8,24,0.73,36836.6,147840.81,41,Workflow Automation,Cost,,False,4.3
+AC1106,Rojas Group,Retail,Enterprise,LATAM,CSM43,SR23,2022-03-20,2024-03-22,,Active,37.5,90,2023-12-13,97,0.7,18,0.24,4880.15,36346.31,21,Data Integration,Ease of Use,,False,4.3
+AC1107,"Buchanan, Brock and Farmer",Finance,Enterprise,NA,CSM15,SR23,2022-06-26,2024-06-12,2024-06-19,Churned,43.6,20,2024-07-24,220,0.66,50,0.71,44342.18,96062.2,42,Compliance,Integration Capabilities,Budget,False,3.4
+AC1108,"Harrell, Bridges and Dixon",Manufacturing,Enterprise,NA,CSM31,SR13,2022-03-30,2024-03-28,,At Risk,89.4,90,2023-06-18,157,0.8,26,0.68,2703.1,214288.74,13,Workflow Automation,Cost,,False,4.3
+AC1109,Howard Inc,Technology,Mid-Market,EMEA,CSM21,SR46,2022-12-13,2024-07-23,2024-08-24,Churned,69.6,-50,2023-04-30,254,0.73,21,0.6,31551.64,48321.95,45,Analytics,Product Features,Internal Decision,True,4.0
+AC1110,Mcdaniel PLC,Retail,Enterprise,EMEA,CSM32,SR49,2022-06-15,2023-12-04,,Active,64.9,100,2024-07-05,227,0.45,40,0.53,21470.49,110111.23,35,Communication,Product Features,,True,3.8
+AC1111,Todd-Taylor,Retail,Enterprise,APAC,CSM1,SR21,2022-01-19,2023-03-14,,Active,63.9,-100,2023-07-16,351,0.87,0,0.37,31334.35,65961.67,49,Compliance,Cost,,True,3.9
+AC1112,Hudson-Summers,Education,Enterprise,APAC,CSM11,SR5,2022-07-01,2023-10-15,,At Risk,92.5,20,2024-07-24,238,0.88,46,0.84,26014.42,133408.82,32,Workflow Automation,Cost,,False,3.7
+AC1113,Arnold-Reid,Education,Mid-Market,EMEA,CSM11,SR26,2022-03-22,2023-10-11,2024-05-14,Churned,86.8,10,2024-09-10,377,0.49,8,0.54,10559.51,10368.75,37,Workflow Automation,Product Features,Missing Feature,False,3.9
+AC1114,"Tucker, Morgan and Bell",Healthcare,Mid-Market,APAC,CSM50,SR35,2022-07-24,2024-03-03,,Active,66.4,-50,2023-01-13,339,0.63,1,0.5,2411.75,33368.51,33,Communication,Product Features,,False,3.5
+AC1115,"Gillespie, Rogers and Johnson",Education,Enterprise,EMEA,CSM14,SR45,2022-02-18,2024-01-01,,Active,87.8,20,2024-09-17,220,0.66,42,0.64,5048.99,132475.76,44,Data Integration,Ease of Use,,False,4.1
+AC1116,Drake-Harris,Healthcare,Enterprise,NA,CSM19,SR8,2022-12-25,2023-01-11,,At Risk,75.8,10,2024-03-25,316,0.72,12,0.54,38897.95,208717.21,17,Compliance,Integration Capabilities,,True,4.7
+AC1117,Simmons-Daugherty,Healthcare,Enterprise,LATAM,CSM14,SR45,2022-11-24,2024-06-30,,At Risk,86.4,10,2024-01-02,6,0.7,0,0.51,33581.66,227185.61,58,Data Integration,Integration Capabilities,,True,3.9
+AC1118,Powers Ltd,Healthcare,Enterprise,NA,CSM47,SR47,2022-06-27,2023-12-07,2024-01-18,Churned,81.3,20,2024-09-09,334,1.0,14,0.33,22837.56,244436.28,21,Communication,Product Features,Budget,False,4.3
+AC1119,Rivera and Sons,Healthcare,Mid-Market,APAC,CSM44,SR21,2022-05-24,2023-04-30,,Active,91.9,-50,2023-10-14,440,0.4,48,0.56,44514.6,7369.72,13,Workflow Automation,Cost,,True,3.5
+AC1120,Saunders PLC,Education,Enterprise,APAC,CSM47,SR6,2022-01-06,2023-01-03,,At Risk,81.5,0,2023-03-03,63,0.63,25,0.57,20012.51,116851.98,58,Communication,Integration Capabilities,,False,3.8
+AC1121,"Olson, Rogers and Burton",Manufacturing,SMB,NA,CSM9,SR45,2022-11-02,2024-12-03,,Active,85.8,-50,2023-11-19,218,0.75,37,0.65,24133.74,144391.14,33,Workflow Automation,Reputation,,True,4.1
+AC1122,Anderson-Walton,Finance,Enterprise,NA,CSM44,SR47,2022-08-02,2023-08-04,,Active,83.6,70,2023-01-22,476,0.65,31,0.94,5646.87,105764.64,7,Analytics,Cost,,False,3.4
+AC1123,Williams-Medina,Healthcare,Enterprise,EMEA,CSM43,SR22,2022-07-25,2023-01-07,,Active,49.1,50,2023-10-09,343,0.34,46,0.18,12428.85,89708.62,48,Communication,Ease of Use,,False,4.3
+AC1124,"Perry, Williams and Ryan",Technology,Enterprise,NA,CSM1,SR42,2022-09-15,2023-09-16,,At Risk,83.3,70,2023-02-16,450,0.94,10,0.39,3743.26,125453.75,20,Compliance,Cost,,True,4.4
+AC1125,Lee and Sons,Retail,Enterprise,LATAM,CSM26,SR16,2022-06-15,2024-12-14,2024-12-22,Churned,75.9,70,2024-10-21,415,0.73,36,0.73,22404.93,214864.36,33,Compliance,Product Features,Internal Decision,False,3.6
+AC1126,Gonzalez and Sons,Healthcare,SMB,LATAM,CSM27,SR3,2022-12-26,2024-09-11,,Active,100.0,-50,2023-03-10,410,0.97,38,0.49,48158.56,161196.84,37,Data Integration,Ease of Use,,False,3.5
+AC1127,"Diaz, Dixon and Jackson",Education,Mid-Market,APAC,CSM4,SR15,2022-04-09,2024-02-24,,At Risk,73.7,90,2023-04-14,397,0.74,39,0.81,29997.56,180581.23,28,Communication,Product Features,,True,3.4
+AC1128,Young LLC,Manufacturing,SMB,NA,CSM22,SR23,2022-01-11,2024-01-18,,At Risk,79.3,90,2023-01-24,272,0.39,23,0.69,35104.8,16215.64,15,Communication,Ease of Use,,False,3.9
+AC1129,Martinez-Martinez,Manufacturing,Enterprise,LATAM,CSM7,SR17,2022-05-08,2024-09-25,,Active,100.0,-50,2024-09-07,481,0.39,25,0.87,10779.48,207015.77,17,Compliance,Product Features,,False,3.1
+AC1130,Gill-Santos,Healthcare,Enterprise,NA,CSM50,SR29,2022-10-01,2024-02-23,,Active,55.1,70,2023-01-07,7,0.36,33,0.65,36810.7,140540.45,32,Data Integration,Integration Capabilities,,False,3.4
+AC1131,Brown PLC,Retail,Enterprise,EMEA,CSM47,SR9,2022-08-30,2024-03-23,2024-06-13,Churned,54.8,100,2024-08-08,315,0.74,20,0.69,25205.51,99242.35,43,Workflow Automation,Cost,Internal Decision,False,4.0
+AC1132,Duran-Blankenship,Finance,Mid-Market,EMEA,CSM9,SR27,2022-02-24,2024-03-08,,At Risk,72.6,90,2024-09-25,445,1.0,20,0.63,35593.72,234200.46,45,Workflow Automation,Ease of Use,,True,4.4
+AC1133,Lewis and Sons,Manufacturing,Mid-Market,APAC,CSM44,SR9,2022-05-17,2024-06-25,,Active,77.1,90,2023-08-21,282,0.48,44,0.71,31843.87,179036.42,53,Compliance,Reputation,,False,3.7
+AC1134,Powell Inc,Technology,Enterprise,LATAM,CSM44,SR48,2022-02-04,2023-12-20,,At Risk,73.6,50,2024-02-09,418,0.76,0,0.21,26136.5,11191.67,14,Analytics,Product Features,,True,3.2
+AC1135,"Ryan, Bailey and Roberson",Retail,Mid-Market,APAC,CSM10,SR4,2022-08-01,2024-10-06,,At Risk,88.6,10,2023-11-10,390,0.57,34,0.48,1615.32,204436.42,11,Data Integration,Reputation,,False,4.1
+AC1136,"Clark, Hogan and Pena",Manufacturing,Enterprise,LATAM,CSM16,SR33,2022-04-06,2023-08-31,,At Risk,69.2,-100,2024-05-21,479,0.78,24,0.59,19377.73,239391.98,48,Compliance,Reputation,,True,4.1
+AC1137,Green-Welch,Manufacturing,Mid-Market,EMEA,CSM40,SR50,2022-05-04,2024-07-29,,At Risk,64.5,10,2023-12-23,471,0.74,40,0.82,35231.45,163669.93,53,Data Integration,Reputation,,False,3.7
+AC1138,"Greer, Hansen and Lam",Retail,Enterprise,EMEA,CSM19,SR29,2022-03-25,2023-03-27,2024-01-03,Churned,88.7,-50,2024-01-16,100,0.69,11,0.75,36753.97,34241.68,7,Communication,Cost,,True,4.1
+AC1139,"Paul, Johnson and Lee",Retail,Enterprise,APAC,CSM1,SR22,2022-06-09,2024-02-13,,Active,74.5,-100,2023-05-12,83,0.77,20,0.84,29844.02,194546.93,45,Data Integration,Cost,,False,4.1
+AC1140,"Nguyen, Bautista and Holder",Technology,Enterprise,APAC,CSM5,SR46,2022-03-26,2023-04-03,,Active,82.2,0,2024-02-28,271,0.63,4,0.91,39312.91,44045.77,39,Data Integration,Integration Capabilities,,True,4.3
+AC1141,"Sanchez, Gill and Edwards",Retail,SMB,APAC,CSM22,SR24,2022-09-18,2023-06-11,,At Risk,76.2,90,2023-07-15,426,0.68,48,0.8,49056.66,7156.91,47,Compliance,Integration Capabilities,,True,3.7
+AC1142,Williams-Osborne,Manufacturing,Enterprise,EMEA,CSM3,SR44,2022-11-04,2024-02-15,,At Risk,48.3,-50,2023-08-23,202,0.71,16,0.84,27011.87,74293.1,38,Compliance,Reputation,,False,4.8
+AC1143,Stevenson LLC,Education,Mid-Market,NA,CSM19,SR42,2022-12-23,2023-08-29,2024-09-24,Churned,73.4,90,2023-07-09,47,0.71,6,0.7,8369.74,239287.67,39,Data Integration,Product Features,Budget,True,3.9
+AC1144,Butler Group,Manufacturing,SMB,LATAM,CSM7,SR14,2022-10-04,2024-09-18,,At Risk,82.7,-50,2023-01-26,387,0.68,43,0.8,7687.73,117510.18,26,Analytics,Product Features,,True,4.4
+AC1145,"Peterson, Calderon and Lowe",Retail,Mid-Market,NA,CSM37,SR15,2022-12-03,2024-10-29,,At Risk,87.2,50,2024-07-25,235,0.66,40,0.99,20222.4,82519.04,29,Analytics,Reputation,,True,4.2
+AC1146,"Hooper, Briggs and Martinez",Manufacturing,Enterprise,NA,CSM49,SR48,2022-09-14,2024-12-30,,Active,78.7,30,2023-07-27,480,0.55,32,0.58,5306.78,197788.51,24,Data Integration,Product Features,,True,4.1
+AC1147,Stewart-Shannon,Education,Mid-Market,LATAM,CSM43,SR2,2022-08-30,2024-11-20,,Active,63.2,0,2023-10-21,387,0.64,25,0.57,39838.52,213119.52,23,Workflow Automation,Cost,,False,4.0
+AC1148,French-Becker,Manufacturing,Enterprise,APAC,CSM1,SR36,2022-08-03,2024-08-11,,Active,48.6,-50,2024-08-26,26,0.67,0,0.52,28635.93,101550.02,40,Analytics,Cost,,True,4.0
+AC1149,Crawford Group,Manufacturing,Enterprise,APAC,CSM14,SR27,2022-04-08,2024-01-06,,Active,90.5,0,2023-08-20,99,1.0,14,0.74,30844.25,66921.74,12,Workflow Automation,Reputation,,False,3.4
+AC1150,Clements Group,Technology,Mid-Market,NA,CSM19,SR43,2022-05-30,2024-10-07,2024-11-07,Churned,69.8,-50,2023-01-29,106,0.82,46,0.7,29029.78,238127.28,27,Workflow Automation,Ease of Use,Budget,True,4.5
+AC1151,"Jimenez, Perez and Rivera",Healthcare,SMB,APAC,CSM32,SR29,2022-05-17,2024-11-09,,At Risk,73.5,100,2024-06-23,83,0.63,36,0.95,28343.09,202886.44,32,Workflow Automation,Product Features,,True,4.0
+AC1152,Williams PLC,Retail,Enterprise,LATAM,CSM18,SR24,2022-01-25,2023-11-05,2024-09-27,Churned,59.7,30,2024-05-05,454,1.0,30,0.3,23142.42,92891.69,24,Communication,Reputation,Budget,True,2.3
+AC1153,Bowers-Johnson,Technology,SMB,APAC,CSM9,SR35,2022-02-04,2023-10-04,2024-12-16,Churned,86.5,-50,2024-08-02,377,0.88,4,0.68,44605.26,213148.88,45,Analytics,Reputation,,False,3.3
+AC1154,Ho-Knox,Technology,SMB,NA,CSM36,SR17,2022-04-18,2023-10-20,,At Risk,74.1,0,2024-08-02,192,0.64,25,0.49,11165.33,194175.49,51,Compliance,Ease of Use,,False,4.7
+AC1155,"Benson, Brown and Mcmillan",Technology,SMB,LATAM,CSM24,SR33,2022-06-01,2024-06-11,2024-07-11,Churned,59.3,10,2023-05-11,439,0.76,39,0.84,34208.08,190515.49,13,Communication,Ease of Use,Competitor,False,4.2
+AC1156,"Webb, Mathews and Horton",Technology,Enterprise,EMEA,CSM48,SR47,2022-07-17,2024-10-03,,At Risk,93.6,-100,2023-10-24,117,0.81,48,0.69,24382.11,20400.98,28,Workflow Automation,Product Features,,False,4.2
+AC1157,Bates-White,Technology,Mid-Market,LATAM,CSM31,SR30,2022-12-11,2023-10-09,,Active,84.2,30,2023-01-17,57,0.62,45,0.34,48422.07,160223.91,22,Compliance,Reputation,,False,4.5
+AC1158,Watson Inc,Retail,Mid-Market,LATAM,CSM24,SR38,2022-09-28,2024-02-28,,Active,92.4,90,2023-10-07,133,0.75,24,0.49,48633.71,59610.32,30,Compliance,Cost,,False,3.2
+AC1159,"Harris, Daniels and Ortiz",Education,Enterprise,NA,CSM33,SR9,2022-08-07,2024-12-27,,Active,76.3,-50,2023-05-14,268,0.43,41,0.3,14040.48,41808.9,15,Compliance,Reputation,,False,4.0
+AC1160,Bennett-Robinson,Healthcare,Enterprise,EMEA,CSM27,SR22,2022-10-24,2023-03-10,,At Risk,63.5,70,2024-05-12,250,0.77,13,0.57,29539.54,163578.51,31,Analytics,Ease of Use,,True,3.7
+AC1161,Martinez-Everett,Technology,Enterprise,EMEA,CSM9,SR41,2022-07-29,2024-10-11,,Active,49.4,-100,2024-08-16,90,0.53,16,0.44,46122.34,131576.97,30,Data Integration,Reputation,,False,3.4
+AC1162,"Fischer, Walker and Graves",Manufacturing,Enterprise,APAC,CSM6,SR14,2022-12-13,2023-03-04,,At Risk,70.1,70,2024-05-21,92,0.47,14,0.57,41518.18,152205.49,55,Data Integration,Ease of Use,,False,4.1
+AC1163,"Taylor, Evans and Ford",Technology,Mid-Market,EMEA,CSM47,SR44,2022-11-05,2024-10-28,,At Risk,62.6,100,2024-05-24,307,0.79,4,0.33,11490.69,99438.16,11,Analytics,Ease of Use,,False,3.4
+AC1164,Cruz Inc,Technology,Enterprise,LATAM,CSM10,SR39,2022-07-13,2024-07-19,2024-11-05,Churned,73.3,70,2024-10-06,466,0.84,39,0.77,29990.69,220049.4,39,Data Integration,Product Features,Budget,False,4.8
+AC1165,Mason and Sons,Retail,Enterprise,NA,CSM50,SR44,2022-08-26,2024-12-02,,At Risk,69.4,30,2023-11-15,452,0.67,2,0.39,34882.14,110094.28,56,Communication,Integration Capabilities,,True,3.4
+AC1166,"Lowe, Cole and Mullins",Manufacturing,Enterprise,NA,CSM28,SR9,2022-12-26,2024-03-21,,Active,78.4,-50,2024-06-05,150,0.54,38,0.85,43838.32,105118.44,17,Analytics,Product Features,,False,3.3
+AC1167,Perez-Wade,Healthcare,Enterprise,NA,CSM25,SR42,2022-03-26,2024-05-21,2024-11-29,Churned,82.3,30,2023-10-15,214,0.5,23,0.44,5329.16,109387.54,42,Compliance,Cost,,False,4.3
+AC1168,Jackson-Aguirre,Finance,Enterprise,APAC,CSM44,SR26,2022-06-17,2023-04-14,,At Risk,64.9,90,2024-12-02,406,0.6,35,0.44,24123.39,95702.18,40,Communication,Cost,,False,4.9
+AC1169,Acevedo-Powers,Technology,Mid-Market,LATAM,CSM48,SR9,2022-10-09,2024-06-03,,Active,65.7,10,2023-05-08,233,0.71,50,0.56,34965.57,44639.8,18,Data Integration,Integration Capabilities,,False,4.1
+AC1170,"Jacobs, Ruiz and Conway",Technology,Enterprise,NA,CSM11,SR25,2022-04-08,2024-02-13,,Active,65.8,-50,2024-11-27,426,0.66,9,0.68,23583.43,152060.13,10,Analytics,Cost,,True,3.6
+AC1171,Ortiz Inc,Healthcare,Enterprise,NA,CSM47,SR25,2022-01-19,2023-02-09,,At Risk,91.3,100,2024-11-22,340,0.94,33,0.72,14323.46,241064.81,8,Workflow Automation,Integration Capabilities,,False,4.0
+AC1172,Fitzgerald PLC,Retail,Enterprise,APAC,CSM13,SR3,2022-01-20,2024-03-29,,Active,30.1,100,2024-04-15,91,0.78,43,0.52,1803.06,63617.87,5,Workflow Automation,Product Features,,False,3.9
+AC1173,Guzman PLC,Education,Mid-Market,LATAM,CSM26,SR38,2022-10-16,2023-02-18,2023-10-19,Churned,46.5,-100,2024-10-31,382,0.8,45,0.31,3430.86,27090.64,23,Data Integration,Reputation,Missing Feature,True,4.1
+AC1174,"Wood, Yates and Strickland",Finance,SMB,EMEA,CSM30,SR26,2022-06-28,2024-12-21,,At Risk,88.6,0,2024-07-25,213,0.61,32,0.84,5323.25,22734.56,23,Compliance,Product Features,,False,3.6
+AC1175,Nelson Inc,Finance,Enterprise,APAC,CSM45,SR29,2022-11-23,2023-08-24,,At Risk,84.0,10,2024-02-27,392,0.44,21,0.81,48061.94,117417.87,34,Data Integration,Product Features,,False,4.4
+AC1176,Rivera Ltd,Finance,SMB,LATAM,CSM41,SR15,2022-10-23,2024-10-20,,Active,82.0,30,2024-04-18,216,0.62,22,0.32,25825.21,7382.18,58,Compliance,Ease of Use,,True,3.8
+AC1177,Chavez and Sons,Education,Enterprise,APAC,CSM5,SR36,2022-01-30,2023-03-19,,At Risk,91.7,30,2023-11-04,186,0.73,13,0.29,44715.81,70923.57,52,Workflow Automation,Integration Capabilities,,False,3.4
+AC1178,"Novak, Morris and Ramirez",Retail,Enterprise,EMEA,CSM17,SR14,2022-06-05,2023-03-05,2024-11-28,Churned,93.8,10,2023-08-04,433,0.8,39,0.35,17801.37,195839.93,12,Analytics,Integration Capabilities,,True,3.1
+AC1179,Hart LLC,Technology,SMB,LATAM,CSM24,SR40,2022-09-24,2024-02-05,,At Risk,65.6,70,2024-07-12,98,0.33,48,0.57,45800.34,73665.32,19,Data Integration,Ease of Use,,True,5.0
+AC1180,"Gonzalez, Cobb and Short",Education,Mid-Market,NA,CSM33,SR23,2022-08-08,2024-06-27,,Active,51.0,70,2023-07-18,66,0.66,44,0.86,25910.26,82334.56,5,Analytics,Ease of Use,,True,4.4
+AC1181,Dyer-Suarez,Healthcare,Mid-Market,APAC,CSM40,SR17,2022-06-08,2024-08-27,2024-11-19,Churned,72.8,20,2023-12-20,126,0.67,17,0.37,23567.27,155205.59,28,Workflow Automation,Integration Capabilities,Internal Decision,True,3.9
+AC1182,"Perkins, Frazier and Bryan",Manufacturing,Mid-Market,APAC,CSM26,SR18,2022-04-28,2023-04-09,,Active,78.7,100,2023-05-18,356,0.92,14,0.48,40709.53,181599.79,56,Workflow Automation,Reputation,,False,3.9
+AC1183,"Gray, Byrd and Williams",Education,SMB,EMEA,CSM48,SR10,2022-01-22,2023-08-12,,Active,60.8,0,2024-08-31,220,0.75,31,0.76,6723.58,223851.25,45,Data Integration,Reputation,,False,4.3
+AC1184,"Valentine, Lindsey and Price",Education,Mid-Market,APAC,CSM36,SR37,2022-08-22,2023-08-10,2024-04-04,Churned,57.4,-50,2023-08-19,358,0.73,10,0.46,3001.82,204385.43,35,Analytics,Integration Capabilities,Missing Feature,True,4.5
+AC1185,Garrison and Sons,Finance,Enterprise,APAC,CSM23,SR2,2022-11-24,2023-02-22,,At Risk,72.6,100,2024-09-17,106,0.4,36,0.56,28794.72,164037.08,16,Compliance,Cost,,True,4.2
+AC1186,"Joseph, Wang and Allen",Technology,Mid-Market,LATAM,CSM6,SR25,2022-03-24,2024-03-03,,At Risk,78.7,0,2024-07-25,449,0.6,10,0.48,32029.03,232498.83,31,Data Integration,Reputation,,False,3.5
+AC1187,Webster and Sons,Healthcare,SMB,EMEA,CSM22,SR15,2022-02-24,2023-10-30,,At Risk,69.1,20,2024-09-12,314,0.53,41,0.79,19772.77,222484.49,54,Compliance,Reputation,,False,3.5
+AC1188,Hines Inc,Education,Mid-Market,EMEA,CSM12,SR2,2022-09-16,2023-05-09,2024-05-12,Churned,76.8,10,2023-02-02,343,0.71,16,0.79,47021.87,176670.75,10,Workflow Automation,Ease of Use,Internal Decision,True,4.5
+AC1189,Reynolds-Davis,Healthcare,Mid-Market,NA,CSM2,SR50,2022-03-31,2024-03-17,,Active,85.4,-50,2023-03-17,139,0.77,39,0.39,7763.72,165434.01,29,Compliance,Ease of Use,,True,3.5
+AC1190,Skinner PLC,Finance,Mid-Market,EMEA,CSM9,SR34,2022-11-09,2024-08-07,,Active,62.3,-100,2023-12-12,344,0.85,22,0.61,43018.44,84674.32,35,Communication,Reputation,,False,4.4
+AC1191,Wolfe-Stevenson,Technology,Mid-Market,EMEA,CSM45,SR35,2022-05-07,2024-08-29,2024-09-26,Churned,90.0,100,2023-08-31,238,0.55,40,0.61,37445.58,219936.96,32,Data Integration,Reputation,Missing Feature,False,4.0
+AC1192,"Marks, Lamb and Brown",Education,Enterprise,EMEA,CSM6,SR29,2022-08-25,2023-12-30,,At Risk,70.1,20,2023-08-25,84,0.59,19,0.84,527.79,133212.48,53,Workflow Automation,Cost,,True,4.0
+AC1193,Nguyen PLC,Technology,SMB,LATAM,CSM49,SR31,2022-03-03,2023-11-27,,At Risk,75.2,20,2024-05-11,310,0.54,14,0.74,39838.37,139311.99,17,Communication,Reputation,,False,3.5
+AC1194,Gould-Kim,Retail,SMB,LATAM,CSM25,SR15,2022-08-13,2023-09-13,,At Risk,81.8,10,2024-04-04,269,0.8,48,0.52,39997.95,155237.97,49,Compliance,Cost,,False,4.2
+AC1195,"Bullock, Medina and Miller",Technology,Mid-Market,LATAM,CSM13,SR5,2022-07-22,2023-01-23,2023-06-14,Churned,77.8,20,2023-01-06,61,0.69,40,0.6,22767.15,115927.97,49,Data Integration,Integration Capabilities,Competitor,True,4.0
+AC1196,Shaffer Inc,Retail,SMB,NA,CSM12,SR7,2022-08-17,2024-09-01,,Active,76.9,70,2023-03-14,377,0.71,0,0.38,11640.52,41917.5,36,Workflow Automation,Cost,,False,3.9
+AC1197,"Taylor, Johnson and Thompson",Education,Mid-Market,LATAM,CSM45,SR3,2022-11-17,2023-10-06,,Active,79.0,-100,2023-09-01,141,0.72,49,0.79,19621.09,138082.03,16,Workflow Automation,Cost,,False,4.3
+AC1198,"Bradley, Howell and Jones",Healthcare,SMB,EMEA,CSM25,SR50,2022-09-03,2024-09-06,,Active,61.9,-100,2024-11-18,106,0.67,29,0.54,36766.14,28020.27,47,Workflow Automation,Integration Capabilities,,True,4.0
+AC1199,Richardson LLC,Finance,Mid-Market,EMEA,CSM41,SR47,2022-07-05,2023-04-30,2023-11-15,Churned,75.0,90,2024-10-28,271,0.82,7,0.64,12665.64,161437.4,17,Compliance,Product Features,Competitor,False,4.6
+AC1200,Griffin-Hicks,Retail,Enterprise,LATAM,CSM21,SR1,2022-11-30,2024-10-24,2024-11-21,Churned,78.6,20,2024-11-07,304,0.53,7,0.51,19790.42,64556.89,7,Data Integration,Integration Capabilities,,True,4.3
+AC1201,Flores and Sons,Healthcare,SMB,EMEA,CSM32,SR6,2022-07-16,2023-12-24,,At Risk,50.8,-100,2024-06-23,35,0.43,22,0.6,32228.74,176825.39,55,Analytics,Ease of Use,,False,4.5
+AC1202,Anderson-Farmer,Finance,Enterprise,APAC,CSM29,SR47,2022-05-29,2023-04-04,2024-12-30,Churned,94.6,50,2023-09-05,188,0.66,46,0.81,6736.61,225172.45,36,Communication,Reputation,Missing Feature,False,4.0
+AC1203,"Banks, Brewer and Jacobson",Education,SMB,EMEA,CSM35,SR23,2022-04-10,2024-07-30,,At Risk,52.0,20,2024-10-27,449,0.7,38,0.48,45723.7,140857.48,9,Data Integration,Ease of Use,,False,4.5
+AC1204,Silva Group,Finance,Enterprise,APAC,CSM30,SR1,2022-07-15,2024-11-22,,At Risk,74.6,0,2024-01-06,457,0.44,1,0.3,30986.73,94198.42,44,Workflow Automation,Cost,,False,4.0
+AC1205,"Martin, Quinn and Henry",Manufacturing,Enterprise,LATAM,CSM13,SR34,2022-01-27,2024-11-26,,Active,38.7,100,2024-09-03,149,0.6,20,0.65,20490.23,83895.89,11,Data Integration,Product Features,,True,3.5
+AC1206,Boyer-Hickman,Retail,SMB,NA,CSM13,SR7,2022-11-03,2024-05-09,,Active,89.9,-100,2024-10-21,297,0.94,41,0.4,41814.98,166190.71,38,Data Integration,Reputation,,True,3.9
+AC1207,Curtis PLC,Finance,SMB,NA,CSM1,SR14,2022-01-02,2024-01-02,,Active,89.9,70,2023-01-31,415,0.7,40,0.32,3035.01,141714.87,31,Compliance,Product Features,,False,3.9
+AC1208,Chandler-Bowman,Finance,Enterprise,NA,CSM47,SR5,2022-06-29,2023-02-20,,Active,62.2,10,2023-01-14,496,0.92,33,0.72,4855.96,182667.12,39,Communication,Ease of Use,,True,3.8
+AC1209,Williams-Whitaker,Manufacturing,SMB,EMEA,CSM36,SR48,2022-07-30,2023-07-25,,Active,77.1,100,2023-10-30,188,0.44,43,0.45,22936.03,167984.38,11,Workflow Automation,Ease of Use,,False,4.8
+AC1210,"Gibson, Payne and Mason",Technology,Mid-Market,EMEA,CSM35,SR39,2022-09-07,2023-03-16,,At Risk,75.8,30,2023-03-06,286,0.89,20,0.65,42242.7,106024.11,45,Communication,Cost,,False,4.7
+AC1211,Campbell LLC,Technology,Enterprise,EMEA,CSM25,SR50,2022-03-13,2024-10-05,,At Risk,45.0,30,2024-04-29,497,0.66,28,0.93,22374.99,102287.19,51,Analytics,Cost,,False,4.5
+AC1212,Cannon-Woods,Technology,SMB,APAC,CSM1,SR20,2022-01-29,2024-04-26,,Active,94.9,30,2023-05-10,16,0.7,49,0.49,41097.0,173981.2,22,Data Integration,Reputation,,False,3.5
+AC1213,Quinn Inc,Technology,SMB,NA,CSM3,SR30,2022-03-21,2023-07-17,,Active,58.5,20,2023-03-12,192,0.86,37,0.7,12492.85,67779.74,24,Analytics,Reputation,,True,4.0
+AC1214,Young Inc,Retail,Enterprise,NA,CSM47,SR21,2022-07-19,2023-04-08,,Active,82.6,70,2023-05-15,427,0.73,44,0.79,35142.39,205781.24,11,Data Integration,Cost,,True,4.5
+AC1215,Harris PLC,Technology,Mid-Market,NA,CSM50,SR4,2022-12-14,2024-11-28,,At Risk,59.0,30,2024-03-12,455,0.75,27,0.27,20826.09,217618.62,60,Workflow Automation,Reputation,,False,4.1
+AC1216,Wright and Sons,Manufacturing,Enterprise,LATAM,CSM4,SR20,2022-02-22,2024-06-09,,At Risk,84.1,90,2024-09-04,294,0.44,9,0.52,16341.58,175953.32,14,Analytics,Integration Capabilities,,False,4.0
+AC1217,Anderson-Watson,Technology,Enterprise,NA,CSM15,SR28,2022-10-20,2024-12-16,,At Risk,78.5,0,2023-08-20,72,0.64,21,0.37,4127.26,145002.94,8,Data Integration,Integration Capabilities,,True,4.0
+AC1218,Thomas-Chase,Education,Enterprise,LATAM,CSM50,SR45,2022-01-09,2024-01-25,2024-01-26,Churned,50.2,0,2023-02-07,251,0.65,35,0.51,9905.43,101853.11,41,Workflow Automation,Reputation,,False,3.9
+AC1219,Trevino PLC,Technology,SMB,EMEA,CSM5,SR18,2022-08-03,2023-09-27,,At Risk,66.6,100,2023-03-24,50,0.4,7,0.53,33587.38,108767.45,27,Workflow Automation,Cost,,True,4.5
+AC1220,"Lopez, Barajas and Clay",Manufacturing,SMB,APAC,CSM11,SR23,2022-08-10,2024-05-17,,At Risk,93.9,100,2024-06-28,79,1.0,28,0.94,2243.88,205452.12,17,Compliance,Ease of Use,,False,3.4
+AC1221,Mcdowell Inc,Healthcare,SMB,NA,CSM16,SR40,2022-04-07,2023-08-13,,At Risk,68.9,-100,2023-01-04,180,0.7,44,0.58,40214.04,79753.92,35,Analytics,Cost,,True,4.0
+AC1222,Thomas and Sons,Technology,SMB,EMEA,CSM35,SR34,2022-05-25,2024-01-05,,At Risk,100.0,100,2023-09-11,378,0.48,9,0.46,34753.56,168723.84,29,Data Integration,Reputation,,True,4.8
+AC1223,Johnston-Wright,Retail,SMB,APAC,CSM13,SR45,2022-01-31,2023-09-07,,Active,65.8,70,2024-04-19,340,0.78,0,0.81,3329.89,166791.34,47,Compliance,Product Features,,True,4.2
+AC1224,Newton and Sons,Manufacturing,Mid-Market,EMEA,CSM25,SR33,2022-08-02,2023-01-15,,Active,77.9,30,2024-03-30,253,0.89,38,0.42,26578.03,50672.26,37,Communication,Reputation,,False,3.8
+AC1225,"Bright, Hawkins and Green",Healthcare,SMB,EMEA,CSM34,SR20,2022-04-01,2024-07-10,,At Risk,83.0,0,2023-07-11,14,0.29,22,0.88,34215.57,92067.64,24,Workflow Automation,Reputation,,True,4.2
+AC1226,Gonzalez-Long,Healthcare,Enterprise,APAC,CSM25,SR2,2022-09-16,2023-07-17,,At Risk,77.3,10,2024-01-12,82,0.37,21,0.34,44858.77,165948.28,10,Communication,Reputation,,False,3.8
+AC1227,Williams-Porter,Technology,Enterprise,EMEA,CSM27,SR16,2022-01-09,2024-01-08,,At Risk,87.1,20,2024-07-13,470,0.28,38,0.76,16464.24,137847.27,18,Workflow Automation,Reputation,,False,3.8
+AC1228,Robertson and Sons,Retail,SMB,APAC,CSM45,SR46,2022-09-01,2023-11-03,,Active,71.6,50,2024-03-06,470,0.75,49,0.65,7257.62,233592.34,15,Compliance,Product Features,,False,3.6
+AC1229,Taylor-Smith,Manufacturing,SMB,EMEA,CSM21,SR10,2022-05-15,2024-11-01,,At Risk,84.4,50,2023-12-24,497,0.24,26,0.51,15167.41,187674.38,57,Compliance,Ease of Use,,False,4.1
+AC1230,Graves Ltd,Healthcare,SMB,EMEA,CSM2,SR49,2022-03-20,2023-06-03,,At Risk,69.8,100,2024-10-07,295,0.33,39,0.75,11545.57,61884.72,48,Analytics,Cost,,True,3.4
+AC1231,Hernandez PLC,Education,SMB,LATAM,CSM46,SR42,2022-07-06,2024-02-29,,At Risk,74.0,70,2023-06-19,247,0.73,8,0.6,8189.32,60436.9,31,Analytics,Cost,,False,4.6
+AC1232,West PLC,Retail,Enterprise,EMEA,CSM49,SR14,2022-09-10,2024-11-23,2024-12-30,Churned,74.2,70,2023-09-24,448,0.79,39,0.59,24497.14,84599.43,34,Workflow Automation,Integration Capabilities,Internal Decision,False,4.3
+AC1233,"Cook, Gonzalez and Mcknight",Technology,Enterprise,LATAM,CSM47,SR21,2022-05-10,2024-06-02,,Active,95.9,90,2024-05-21,60,0.73,28,0.76,22845.02,220052.91,20,Data Integration,Reputation,,True,4.7
+AC1234,Juarez LLC,Manufacturing,SMB,LATAM,CSM34,SR49,2022-01-21,2024-01-09,,Active,95.4,10,2024-04-25,154,0.62,28,0.81,19901.99,79615.77,57,Compliance,Integration Capabilities,,True,4.1
+AC1235,Reid Inc,Finance,Enterprise,NA,CSM45,SR34,2022-09-30,2023-12-14,,At Risk,91.8,70,2024-04-23,51,0.81,46,0.66,25032.89,49043.99,42,Data Integration,Ease of Use,,True,4.2
+AC1236,Hudson and Sons,Finance,Mid-Market,NA,CSM12,SR30,2022-07-02,2024-12-14,,Active,78.8,70,2024-09-27,51,0.76,16,0.57,16203.74,163901.23,50,Workflow Automation,Product Features,,True,3.9
+AC1237,"Johnson, Morales and Benitez",Manufacturing,Mid-Market,APAC,CSM6,SR34,2022-07-13,2024-07-15,,Active,100.0,50,2024-10-26,286,0.8,24,0.49,2195.3,46866.82,26,Data Integration,Ease of Use,,True,3.9
+AC1238,"Smith, Cooper and Williams",Retail,SMB,NA,CSM27,SR20,2022-03-14,2024-12-22,,At Risk,90.8,20,2023-06-23,325,0.55,11,0.3,5877.7,37234.9,17,Analytics,Reputation,,False,3.3
+AC1239,Mack-Cannon,Healthcare,Mid-Market,LATAM,CSM32,SR35,2022-07-14,2024-06-02,,At Risk,49.1,10,2024-12-01,116,0.44,37,0.36,32973.53,116165.93,33,Analytics,Reputation,,False,4.7
+AC1240,Trevino PLC,Retail,Enterprise,APAC,CSM40,SR41,2022-10-04,2023-09-07,,Active,74.3,-100,2023-09-01,99,0.63,9,0.31,2753.2,90509.86,14,Analytics,Reputation,,False,3.9
+AC1241,Holt-Warner,Finance,Mid-Market,NA,CSM4,SR7,2022-01-18,2024-12-03,,Active,48.9,0,2024-11-01,349,0.63,18,1.0,30554.49,174420.84,43,Data Integration,Reputation,,True,4.3
+AC1242,Payne-Jones,Education,Enterprise,APAC,CSM3,SR6,2022-06-24,2024-09-16,,At Risk,71.9,30,2023-04-12,464,0.84,24,0.5,41013.24,190818.29,58,Data Integration,Product Features,,True,3.6
+AC1243,"Drake, Richards and Anderson",Retail,SMB,APAC,CSM22,SR34,2022-03-24,2023-02-22,,Active,100.0,10,2023-04-08,318,0.47,3,0.53,5465.11,183783.49,45,Data Integration,Product Features,,False,4.2
+AC1244,Valdez and Sons,Manufacturing,Enterprise,APAC,CSM28,SR39,2022-02-10,2023-09-05,,At Risk,61.0,90,2024-06-30,299,0.83,39,0.54,17692.67,36779.72,41,Communication,Reputation,,False,4.3
+AC1245,Rogers Group,Education,Mid-Market,EMEA,CSM40,SR15,2022-06-05,2023-01-18,,Active,83.8,-100,2023-01-07,65,0.65,1,0.94,23244.28,200199.48,52,Workflow Automation,Reputation,,False,3.7
+AC1246,"Case, Berry and Contreras",Education,SMB,APAC,CSM23,SR36,2022-08-08,2023-06-11,,Active,95.2,-100,2023-08-31,332,0.93,12,0.95,34500.85,67332.29,9,Compliance,Cost,,False,4.1
+AC1247,Mcdonald and Sons,Finance,SMB,NA,CSM44,SR22,2022-06-11,2023-09-04,,Active,63.2,0,2023-07-14,104,1.0,21,0.53,41691.27,230958.54,35,Communication,Product Features,,False,3.6
+AC1248,Lee-Weiss,Education,SMB,LATAM,CSM35,SR22,2022-07-01,2023-05-31,,At Risk,72.2,-100,2024-09-11,432,0.5,33,0.71,14967.19,182616.22,25,Data Integration,Reputation,,True,3.7
+AC1249,"Fields, Mccullough and Lopez",Technology,Enterprise,APAC,CSM23,SR5,2022-10-20,2024-03-12,,At Risk,70.7,-100,2024-08-16,178,0.89,24,0.72,31325.54,211389.41,41,Data Integration,Integration Capabilities,,True,4.0
+AC1250,Hester Inc,Healthcare,Mid-Market,APAC,CSM46,SR3,2022-02-02,2024-12-29,,Active,77.6,70,2023-12-02,454,0.7,15,0.51,18579.18,208217.08,24,Workflow Automation,Reputation,,True,4.0
+AC1251,Frost-Davis,Healthcare,Mid-Market,NA,CSM50,SR13,2022-06-16,2024-10-20,,At Risk,82.4,90,2023-06-03,17,0.67,30,0.68,45247.79,42749.06,26,Communication,Reputation,,True,3.6
+AC1252,"Dalton, Myers and Young",Finance,SMB,NA,CSM34,SR44,2022-09-10,2024-06-22,,Active,65.9,-100,2024-10-02,240,0.55,24,0.49,35683.87,132974.49,5,Compliance,Product Features,,False,4.6
+AC1253,"Robinson, Ellis and Bradford",Technology,SMB,APAC,CSM30,SR3,2022-07-29,2023-09-05,2023-11-15,Churned,85.9,20,2023-05-16,16,0.48,36,0.69,37924.69,161518.46,18,Compliance,Ease of Use,Competitor,True,3.8
+AC1254,"Myers, Davidson and Bentley",Technology,Mid-Market,LATAM,CSM43,SR8,2022-11-19,2023-08-31,,Active,64.8,20,2024-03-18,63,0.4,0,0.79,47914.9,142108.31,11,Workflow Automation,Reputation,,True,3.3
+AC1255,Cooper-Rivera,Finance,Mid-Market,EMEA,CSM46,SR19,2022-07-10,2023-09-26,,Active,74.2,-50,2023-12-19,164,0.51,39,0.76,44612.16,137441.39,8,Workflow Automation,Product Features,,False,3.8
+AC1256,"Morgan, Strickland and Olsen",Manufacturing,SMB,NA,CSM25,SR4,2022-08-05,2024-03-09,2024-10-22,Churned,73.0,50,2024-09-29,96,0.68,45,0.66,29806.07,150225.27,58,Communication,Reputation,Missing Feature,True,4.0
+AC1257,Griffith PLC,Retail,Enterprise,NA,CSM49,SR49,2022-08-19,2024-10-16,,Active,74.4,-50,2023-12-01,421,0.6,44,0.29,23413.8,116618.12,48,Communication,Integration Capabilities,,True,3.4
+AC1258,Wallace PLC,Retail,SMB,APAC,CSM24,SR26,2022-04-12,2023-02-28,2024-01-15,Churned,85.8,30,2024-09-06,408,0.64,20,0.47,22664.15,12414.71,35,Analytics,Cost,Internal Decision,False,3.3
+AC1259,"Park, Stewart and Chen",Retail,Mid-Market,APAC,CSM39,SR37,2022-04-12,2024-05-10,2024-08-19,Churned,49.2,-50,2023-10-13,212,0.56,45,0.78,39837.89,84838.08,46,Analytics,Cost,,False,3.7
+AC1260,"Edwards, Carter and Johnson",Technology,Mid-Market,EMEA,CSM40,SR16,2022-06-17,2023-10-21,,At Risk,81.0,50,2023-12-04,38,0.58,21,0.73,10411.91,175044.67,32,Communication,Reputation,,False,3.8
+AC1261,Villa Group,Technology,Enterprise,EMEA,CSM12,SR43,2022-05-10,2024-05-21,,At Risk,56.5,-50,2023-04-30,308,0.65,38,0.97,23145.42,140996.49,57,Communication,Ease of Use,,True,4.9
+AC1262,Lee Inc,Education,SMB,NA,CSM44,SR39,2022-05-02,2023-12-18,,At Risk,82.3,30,2024-10-26,258,0.67,41,0.66,33008.24,27180.59,57,Workflow Automation,Reputation,,False,4.2
+AC1263,Vargas-Young,Manufacturing,SMB,EMEA,CSM43,SR10,2022-08-27,2024-07-13,,At Risk,74.4,50,2024-12-11,320,0.79,36,0.64,22357.99,55387.11,25,Compliance,Reputation,,False,3.8
+AC1264,Lutz Ltd,Manufacturing,Mid-Market,LATAM,CSM46,SR23,2022-03-19,2023-06-19,,Active,57.1,100,2024-07-22,266,0.61,25,0.76,42381.84,213863.77,8,Compliance,Reputation,,False,4.0
+AC1265,"Manning, Mata and Carroll",Healthcare,Enterprise,APAC,CSM8,SR19,2022-01-28,2023-12-16,,Active,79.5,50,2024-09-09,364,0.64,37,0.39,19713.42,82941.19,29,Communication,Integration Capabilities,,False,3.9
+AC1266,"Ho, Blevins and Weiss",Retail,Enterprise,EMEA,CSM31,SR9,2022-05-03,2023-08-09,2023-12-05,Churned,59.7,50,2024-04-01,436,0.48,23,0.84,41998.13,42795.49,60,Workflow Automation,Ease of Use,Budget,True,3.8
+AC1267,Bailey-Hayes,Healthcare,SMB,LATAM,CSM43,SR28,2022-10-11,2024-03-15,,Active,63.9,-50,2024-04-23,75,1.0,41,0.76,40297.08,215737.43,55,Data Integration,Integration Capabilities,,False,3.8
+AC1268,"Norman, Walton and Lopez",Education,Enterprise,LATAM,CSM36,SR29,2022-10-20,2024-07-25,,Active,81.4,0,2024-11-13,222,0.65,38,0.46,371.5,127048.46,51,Workflow Automation,Reputation,,True,4.2
+AC1269,"Garcia, Horne and Roberts",Technology,Enterprise,APAC,CSM3,SR3,2022-01-31,2024-08-03,,At Risk,70.1,-50,2024-04-22,302,0.72,30,0.8,48086.89,24615.46,51,Data Integration,Cost,,False,4.5
+AC1270,Noble and Sons,Healthcare,Enterprise,NA,CSM16,SR31,2022-01-06,2024-07-05,,Active,66.7,90,2023-11-30,413,0.8,37,0.37,15624.99,17929.7,26,Data Integration,Product Features,,False,4.2
+AC1271,Odonnell and Sons,Technology,Mid-Market,APAC,CSM27,SR23,2022-03-16,2024-06-06,,At Risk,77.2,20,2023-05-12,90,0.78,2,0.54,34752.56,151420.95,24,Data Integration,Cost,,True,5.0
+AC1272,Collins-Duran,Education,Enterprise,EMEA,CSM37,SR4,2022-06-06,2023-03-05,,At Risk,61.5,100,2024-03-05,18,0.89,18,0.39,24238.01,36071.23,9,Compliance,Cost,,True,4.3
+AC1273,Pierce-Hendrix,Finance,Mid-Market,APAC,CSM1,SR48,2022-12-03,2023-09-17,2023-09-27,Churned,83.6,0,2024-05-07,470,0.71,37,0.5,36948.36,166493.13,28,Workflow Automation,Cost,Competitor,False,4.1
+AC1274,Lewis-Oneal,Technology,SMB,APAC,CSM6,SR10,2022-08-04,2023-11-06,,Active,79.0,70,2024-09-21,390,1.0,26,0.43,38518.39,63297.12,33,Workflow Automation,Ease of Use,,False,3.7
+AC1275,Williams-Park,Finance,SMB,APAC,CSM49,SR8,2022-10-22,2023-06-12,2023-08-13,Churned,79.3,70,2024-09-10,209,0.65,30,0.58,15068.36,187806.88,53,Data Integration,Ease of Use,Internal Decision,False,4.5
+AC1276,Tucker-Welch,Education,Mid-Market,APAC,CSM10,SR34,2022-02-23,2024-11-13,,Active,32.7,20,2024-06-16,479,0.58,28,0.25,19100.2,82343.71,38,Analytics,Product Features,,False,3.4
+AC1277,Allen Inc,Manufacturing,Mid-Market,LATAM,CSM40,SR42,2022-01-28,2024-03-24,,At Risk,100.0,20,2024-08-12,141,0.82,6,0.79,12767.2,148123.32,34,Workflow Automation,Reputation,,False,4.0
+AC1278,Hunt PLC,Technology,Mid-Market,EMEA,CSM21,SR36,2022-07-08,2023-06-23,2024-02-23,Churned,86.4,-100,2024-10-17,430,0.35,4,0.81,598.07,28936.2,11,Communication,Cost,Competitor,False,3.6
+AC1279,Harris-Patterson,Finance,SMB,NA,CSM2,SR40,2022-05-25,2023-02-01,2024-07-31,Churned,67.0,100,2023-11-14,341,0.8,13,0.66,47524.45,161330.31,50,Analytics,Product Features,,True,4.0
+AC1280,Morris-Brown,Manufacturing,Enterprise,EMEA,CSM8,SR45,2022-03-16,2023-11-08,2024-07-08,Churned,54.6,20,2023-05-12,244,0.72,42,0.79,46809.1,161501.22,22,Communication,Cost,Missing Feature,True,3.7
+AC1281,"Vaughn, Buckley and Watts",Healthcare,Mid-Market,NA,CSM25,SR25,2022-09-19,2023-06-22,,Active,94.7,20,2023-05-06,494,0.53,16,0.6,8896.47,22002.63,17,Data Integration,Integration Capabilities,,True,4.8
+AC1282,Wong Ltd,Education,SMB,EMEA,CSM35,SR50,2022-04-09,2023-06-27,,Active,64.8,70,2024-05-08,371,0.91,16,0.99,5164.36,22865.28,41,Compliance,Integration Capabilities,,True,4.1
+AC1283,Smith Group,Education,SMB,NA,CSM3,SR43,2022-06-05,2024-05-22,,Active,67.1,30,2024-04-16,468,0.55,25,0.86,28732.01,131268.84,54,Communication,Integration Capabilities,,False,4.6
+AC1284,Hobbs-Mccarthy,Manufacturing,SMB,EMEA,CSM1,SR25,2022-01-31,2024-12-04,,At Risk,96.7,-50,2024-12-06,295,0.69,34,0.81,46752.11,92934.99,48,Compliance,Integration Capabilities,,True,4.0
+AC1285,"Herring, Campbell and Reynolds",Manufacturing,SMB,APAC,CSM35,SR22,2022-11-10,2024-11-13,2024-12-19,Churned,61.8,70,2024-03-08,394,0.92,49,0.93,14497.93,54764.52,40,Analytics,Integration Capabilities,Competitor,True,3.5
+AC1286,Daniels-Turner,Education,SMB,APAC,CSM32,SR6,2022-01-01,2023-01-31,,At Risk,59.4,10,2024-01-23,76,0.71,2,0.79,9654.64,181336.06,42,Workflow Automation,Integration Capabilities,,True,3.4
+AC1287,Sullivan-Young,Technology,Enterprise,APAC,CSM32,SR35,2022-07-30,2024-07-20,,At Risk,78.4,-100,2024-07-26,23,0.58,21,0.74,2802.72,198005.74,7,Communication,Product Features,,True,3.6
+AC1288,Hanson Group,Manufacturing,Enterprise,LATAM,CSM44,SR35,2022-03-08,2023-03-20,2023-10-07,Churned,86.6,100,2024-11-07,124,0.67,4,0.41,1843.88,39689.67,46,Analytics,Integration Capabilities,,True,4.0
+AC1289,Acevedo-Hoffman,Manufacturing,Enterprise,EMEA,CSM1,SR12,2022-06-17,2024-04-15,,At Risk,45.9,-50,2023-02-09,238,0.59,39,0.67,8534.47,149805.41,57,Analytics,Product Features,,False,3.1
+AC1290,Sanchez-Johnson,Technology,SMB,NA,CSM13,SR28,2022-01-19,2024-11-20,,At Risk,36.4,30,2023-07-10,66,0.23,43,0.87,28798.35,38645.7,58,Workflow Automation,Product Features,,False,4.0
+AC1291,Compton-Holmes,Finance,SMB,NA,CSM18,SR10,2022-04-11,2024-10-08,,Active,67.0,30,2024-07-30,288,0.89,10,0.52,21933.06,231790.5,7,Workflow Automation,Product Features,,False,4.1
+AC1292,"Baker, Woods and Roberts",Manufacturing,Enterprise,LATAM,CSM50,SR11,2022-09-22,2023-04-29,2023-06-26,Churned,75.4,70,2023-09-04,46,0.61,0,0.66,361.2,231903.55,50,Data Integration,Cost,Internal Decision,False,4.4
+AC1293,Jones LLC,Education,Enterprise,EMEA,CSM14,SR10,2022-07-04,2024-05-06,,At Risk,72.2,50,2023-09-18,127,0.61,11,0.53,30526.9,14217.2,16,Communication,Reputation,,False,2.9
+AC1294,Hoffman Inc,Manufacturing,Mid-Market,APAC,CSM27,SR1,2022-08-13,2023-05-08,,Active,79.2,-50,2024-03-04,276,0.46,6,0.73,30946.05,216369.11,39,Data Integration,Ease of Use,,False,4.0
+AC1295,"Stewart, Rogers and Collins",Manufacturing,Enterprise,EMEA,CSM18,SR4,2022-02-06,2023-03-09,2024-03-24,Churned,76.6,0,2023-11-17,355,0.84,30,0.41,24875.74,44141.1,7,Analytics,Cost,Missing Feature,True,4.2
+AC1296,"Hurst, Johnson and Sandoval",Finance,Mid-Market,LATAM,CSM3,SR7,2022-10-01,2024-03-04,,Active,79.0,0,2023-05-28,407,0.66,1,0.41,24253.07,33435.95,20,Communication,Reputation,,False,4.3
+AC1297,Andrade-Perez,Education,SMB,APAC,CSM15,SR50,2022-09-06,2023-01-08,2024-04-02,Churned,85.6,10,2023-11-28,55,0.72,15,0.39,36887.39,218122.14,29,Workflow Automation,Product Features,Internal Decision,False,3.7
+AC1298,Thompson-Anderson,Healthcare,Mid-Market,EMEA,CSM14,SR40,2022-05-10,2024-03-06,,At Risk,74.1,30,2024-07-22,74,0.84,29,0.28,35991.06,159845.17,22,Workflow Automation,Cost,,True,3.7
+AC1299,"Benitez, Burns and Griffin",Manufacturing,Enterprise,NA,CSM18,SR9,2022-04-01,2023-01-06,2023-04-08,Churned,69.0,70,2024-09-21,239,0.68,26,0.34,8560.07,89176.12,23,Data Integration,Ease of Use,,False,3.9
+AC1300,"Prince, Garza and Mccoy",Technology,Enterprise,EMEA,CSM6,SR27,2022-01-30,2024-02-12,,At Risk,70.3,10,2023-12-10,307,0.49,30,0.58,41849.45,73396.87,51,Communication,Ease of Use,,True,3.7
+AC1301,"Pollard, Schneider and Jordan",Education,Enterprise,EMEA,CSM38,SR10,2022-08-15,2023-05-09,,Active,82.4,50,2023-02-05,27,0.52,2,0.62,49563.68,184701.69,37,Analytics,Integration Capabilities,,False,3.6
+AC1302,Molina Ltd,Education,Enterprise,NA,CSM29,SR32,2022-08-12,2024-12-13,2024-12-15,Churned,66.0,90,2023-01-14,390,0.76,0,0.65,34657.99,104621.43,18,Workflow Automation,Cost,Missing Feature,True,3.8
+AC1303,"Hughes, Krause and Davis",Healthcare,SMB,LATAM,CSM43,SR20,2022-05-09,2024-02-20,2024-10-19,Churned,71.0,70,2023-11-20,444,0.41,36,0.88,37364.33,10981.3,34,Communication,Ease of Use,Internal Decision,True,4.3
+AC1304,Fitzgerald-Lin,Finance,Enterprise,LATAM,CSM46,SR41,2022-04-13,2024-08-02,2024-08-22,Churned,84.8,-50,2023-03-14,202,0.38,44,0.48,16645.31,13014.97,32,Compliance,Reputation,,False,3.8
+AC1305,Parker-Terry,Retail,Enterprise,NA,CSM40,SR22,2022-01-10,2024-03-09,,Active,46.0,90,2024-01-20,489,0.88,43,0.89,18199.53,17632.83,29,Compliance,Integration Capabilities,,False,5.0
+AC1306,Moreno Group,Finance,Mid-Market,EMEA,CSM42,SR36,2022-03-04,2023-06-30,,Active,59.3,0,2023-06-30,176,0.72,15,0.86,26981.69,164014.41,52,Data Integration,Ease of Use,,False,3.9
+AC1307,Wells-Barnes,Retail,Mid-Market,APAC,CSM18,SR33,2022-12-19,2024-01-02,,At Risk,66.5,-100,2024-05-23,37,0.33,23,0.83,17261.33,124125.59,38,Analytics,Integration Capabilities,,False,4.0
+AC1308,Lewis-Burgess,Manufacturing,Enterprise,APAC,CSM29,SR40,2022-11-23,2024-05-14,,Active,64.1,10,2023-05-25,461,0.76,29,0.63,4365.44,100717.21,16,Compliance,Product Features,,True,4.1
+AC1309,Davis-Schmidt,Finance,SMB,EMEA,CSM32,SR10,2022-10-10,2024-03-16,,Active,71.7,20,2024-11-07,218,1.0,43,0.57,27071.75,37346.71,27,Communication,Integration Capabilities,,False,4.8
+AC1310,Williams PLC,Healthcare,Mid-Market,EMEA,CSM5,SR2,2022-01-17,2024-03-05,,Active,83.5,90,2024-01-22,335,0.77,21,0.58,20584.59,88984.16,46,Compliance,Integration Capabilities,,False,4.5
+AC1311,Anderson and Sons,Manufacturing,Enterprise,LATAM,CSM30,SR20,2022-08-12,2023-05-24,,At Risk,76.7,0,2023-01-13,409,0.51,16,0.41,11339.1,96116.07,23,Analytics,Ease of Use,,True,4.2
+AC1312,"Melton, Freeman and Knox",Education,SMB,EMEA,CSM46,SR35,2022-04-26,2024-09-07,,Active,61.4,0,2023-09-12,87,0.69,15,0.81,5845.87,248474.39,41,Workflow Automation,Integration Capabilities,,True,4.2
+AC1313,Russell-Merritt,Retail,SMB,NA,CSM43,SR21,2022-08-20,2023-11-24,,Active,64.2,30,2023-09-10,234,0.98,34,0.71,48773.28,135742.52,12,Analytics,Integration Capabilities,,False,4.5
+AC1314,Keller-Bond,Retail,Mid-Market,APAC,CSM10,SR1,2022-07-16,2024-05-21,,At Risk,41.0,20,2024-04-27,247,0.77,18,0.77,48480.28,189769.61,41,Workflow Automation,Reputation,,False,4.9
+AC1315,Moses Group,Education,Mid-Market,NA,CSM47,SR31,2022-05-15,2023-06-10,,Active,53.0,90,2023-07-16,64,0.94,19,0.93,1239.78,156292.89,19,Communication,Cost,,True,3.0
+AC1316,"Blake, Odom and Medina",Healthcare,Enterprise,EMEA,CSM38,SR34,2022-06-22,2023-12-28,2024-10-28,Churned,82.2,20,2024-05-10,105,0.82,1,0.53,4179.48,213115.59,48,Analytics,Reputation,Internal Decision,True,3.8
+AC1317,"Wolf, Brown and Strong",Finance,Enterprise,NA,CSM43,SR24,2022-06-18,2023-12-27,,At Risk,85.0,30,2023-06-19,202,0.58,23,0.56,609.54,89505.45,24,Communication,Reputation,,True,4.4
+AC1318,Dunn LLC,Manufacturing,Mid-Market,LATAM,CSM29,SR19,2022-03-02,2024-05-28,2024-08-01,Churned,100.0,50,2024-11-30,378,0.81,26,0.63,6978.38,148859.12,10,Workflow Automation,Ease of Use,Missing Feature,False,3.7
+AC1319,Sutton LLC,Technology,Mid-Market,NA,CSM38,SR49,2022-07-12,2023-10-29,,Active,59.8,50,2024-08-05,332,0.92,17,0.57,20725.7,141174.39,50,Data Integration,Ease of Use,,True,4.6
+AC1320,Simmons PLC,Education,Mid-Market,LATAM,CSM3,SR20,2022-03-17,2023-09-04,,At Risk,70.1,70,2023-07-07,291,0.57,47,0.68,23172.59,11575.8,5,Workflow Automation,Cost,,True,4.0
+AC1321,Bennett Ltd,Manufacturing,Enterprise,LATAM,CSM8,SR42,2022-06-09,2023-06-11,,At Risk,56.9,50,2023-03-16,96,1.0,31,0.47,45339.66,162972.53,6,Analytics,Cost,,False,4.5
+AC1322,Durham-Reyes,Healthcare,Enterprise,APAC,CSM38,SR31,2022-07-18,2023-03-04,,At Risk,87.6,70,2023-04-30,360,0.45,7,0.4,18660.11,184574.53,6,Compliance,Ease of Use,,False,3.8
+AC1323,"Baird, Haney and Lynch",Retail,Mid-Market,LATAM,CSM45,SR9,2022-06-17,2024-03-26,,Active,62.0,20,2024-03-29,189,1.0,26,0.56,31812.36,239013.31,8,Compliance,Cost,,False,4.4
+AC1324,Andrews-Winters,Healthcare,Enterprise,EMEA,CSM50,SR41,2022-01-22,2024-07-05,2024-09-03,Churned,82.7,-50,2023-03-04,311,0.75,48,0.61,8356.8,84038.68,25,Compliance,Cost,Missing Feature,True,4.6
+AC1325,"Liu, Tapia and Bates",Technology,Mid-Market,EMEA,CSM1,SR9,2022-11-15,2024-10-26,,At Risk,62.6,70,2023-09-08,215,1.0,21,0.34,46045.37,44942.14,18,Workflow Automation,Reputation,,True,4.4
+AC1326,Hoffman Inc,Retail,Enterprise,NA,CSM27,SR30,2022-07-14,2024-05-09,,Active,53.9,0,2024-11-26,477,0.64,1,0.62,23975.91,81335.5,28,Workflow Automation,Integration Capabilities,,False,3.8
+AC1327,Smith Ltd,Technology,Enterprise,APAC,CSM12,SR46,2022-08-14,2024-03-03,,Active,72.3,10,2023-09-04,70,0.42,44,0.4,7117.97,60510.74,13,Workflow Automation,Ease of Use,,False,4.2
+AC1328,Huerta-Dean,Education,Enterprise,NA,CSM5,SR2,2022-07-12,2024-08-09,,At Risk,75.4,-100,2023-09-29,105,0.56,6,0.86,1639.64,166648.27,42,Analytics,Integration Capabilities,,True,3.4
+AC1329,Moore-Day,Finance,SMB,NA,CSM20,SR43,2022-12-10,2023-02-07,2024-02-27,Churned,69.6,-50,2024-10-15,405,0.6,7,0.72,46004.9,55323.29,17,Workflow Automation,Cost,Budget,True,4.0
+AC1330,Adams Ltd,Manufacturing,Mid-Market,APAC,CSM23,SR11,2022-10-30,2024-12-15,,Active,73.4,90,2024-07-13,296,0.33,4,0.77,4955.28,146642.75,5,Data Integration,Ease of Use,,False,3.9
+AC1331,Smith-White,Finance,SMB,NA,CSM47,SR7,2022-04-03,2023-12-01,,At Risk,76.7,30,2023-06-12,362,0.55,37,0.42,9256.29,170013.8,11,Workflow Automation,Cost,,False,4.7
+AC1332,Garcia PLC,Education,SMB,EMEA,CSM27,SR8,2022-07-23,2024-03-13,,At Risk,48.4,-50,2024-12-01,243,0.49,7,0.9,25986.38,126474.92,28,Compliance,Reputation,,False,4.3
+AC1333,Brown LLC,Healthcare,Mid-Market,LATAM,CSM8,SR25,2022-08-08,2023-12-08,,At Risk,70.1,70,2024-11-16,120,0.95,35,0.69,20364.11,246315.77,32,Workflow Automation,Product Features,,False,4.1
+AC1334,Wright-Harris,Education,Enterprise,APAC,CSM12,SR1,2022-12-03,2023-10-22,,At Risk,78.4,-50,2024-12-21,207,0.79,28,0.7,26133.12,170747.07,12,Workflow Automation,Integration Capabilities,,False,5.0
+AC1335,Jones and Sons,Technology,SMB,EMEA,CSM5,SR24,2022-07-20,2024-06-26,,At Risk,72.1,10,2024-03-16,309,0.67,25,0.35,6138.11,210336.74,51,Communication,Cost,,False,4.0
+AC1336,Jenkins Inc,Technology,Enterprise,APAC,CSM49,SR42,2022-08-22,2024-06-27,,At Risk,100.0,70,2024-08-21,346,0.9,38,0.49,47506.94,246943.18,37,Compliance,Ease of Use,,False,4.0
+AC1337,"Nichols, Ashley and Kent",Healthcare,SMB,APAC,CSM32,SR32,2022-12-16,2023-08-03,2024-11-05,Churned,55.6,0,2024-06-08,20,0.51,6,0.63,36889.92,208426.55,36,Analytics,Ease of Use,Internal Decision,False,3.8
+AC1338,Ashley Inc,Finance,SMB,APAC,CSM40,SR40,2022-10-07,2024-09-15,2024-11-12,Churned,59.3,-50,2023-05-03,343,0.8,48,0.58,25997.45,125585.94,34,Workflow Automation,Cost,Internal Decision,False,3.2
+AC1339,Roy and Sons,Finance,Enterprise,APAC,CSM35,SR35,2022-07-29,2024-07-29,2024-12-04,Churned,43.9,-100,2023-01-18,225,0.59,7,0.28,19181.49,82067.0,29,Communication,Integration Capabilities,Budget,True,3.1
+AC1340,Kim-Anderson,Technology,Enterprise,APAC,CSM46,SR11,2022-11-14,2023-01-19,,Active,91.9,20,2023-08-03,371,0.68,24,0.55,24372.75,31798.59,48,Communication,Reputation,,False,3.9
+AC1341,Fields and Sons,Technology,Mid-Market,LATAM,CSM36,SR11,2022-11-19,2024-05-23,,At Risk,57.9,20,2024-03-30,258,0.78,37,0.57,48543.54,156150.22,27,Compliance,Cost,,True,3.6
+AC1342,"Morgan, Smith and Burke",Technology,SMB,EMEA,CSM24,SR23,2022-06-22,2023-07-13,,Active,65.9,30,2023-04-30,199,0.45,6,0.52,21407.41,248026.65,31,Compliance,Product Features,,False,3.9
+AC1343,"Richardson, Stanley and Sanchez",Retail,SMB,APAC,CSM38,SR6,2022-05-07,2023-04-10,,Active,68.5,20,2023-08-04,63,0.71,21,0.58,8488.96,136912.12,7,Communication,Integration Capabilities,,False,4.1
+AC1344,"Romero, Woods and Michael",Education,Mid-Market,NA,CSM45,SR31,2022-01-04,2023-01-05,,At Risk,89.1,50,2023-05-25,297,0.82,24,0.79,16121.07,28942.79,36,Analytics,Ease of Use,,True,3.6
+AC1345,Butler-Harris,Technology,Enterprise,APAC,CSM11,SR40,2022-04-14,2023-04-18,,At Risk,67.4,10,2024-11-30,259,0.83,40,0.73,42366.7,197851.65,58,Data Integration,Ease of Use,,True,3.7
+AC1346,Rivera LLC,Healthcare,Mid-Market,LATAM,CSM15,SR40,2022-09-12,2023-12-16,,Active,84.2,100,2024-01-29,53,0.51,37,0.7,16841.9,21481.1,56,Data Integration,Integration Capabilities,,False,4.0
+AC1347,"Price, Hayes and Reyes",Finance,SMB,APAC,CSM33,SR20,2022-07-15,2023-10-10,,At Risk,54.2,10,2023-07-17,217,0.61,25,1.0,12563.24,131265.46,47,Data Integration,Ease of Use,,False,4.1
+AC1348,Walton LLC,Manufacturing,Enterprise,EMEA,CSM37,SR32,2022-10-12,2023-07-12,2024-09-25,Churned,100.0,70,2024-05-17,142,0.41,40,0.75,26635.97,155533.46,54,Communication,Reputation,Budget,False,2.7
+AC1349,Hernandez-Scott,Finance,Mid-Market,EMEA,CSM16,SR10,2022-03-28,2023-11-01,,At Risk,75.0,50,2024-06-29,215,0.83,20,0.77,43009.3,228228.76,45,Workflow Automation,Integration Capabilities,,True,3.6
+AC1350,Vazquez PLC,Finance,Enterprise,EMEA,CSM17,SR44,2022-08-03,2024-05-04,,At Risk,90.6,10,2023-03-21,63,0.59,9,0.57,9595.8,65168.72,57,Compliance,Integration Capabilities,,False,3.8
+AC1351,Rich Inc,Education,Mid-Market,NA,CSM13,SR11,2022-06-24,2023-04-11,,Active,58.0,20,2023-04-11,409,1.0,17,0.61,32933.54,48116.38,59,Analytics,Integration Capabilities,,False,4.5
+AC1352,Thompson-Garcia,Healthcare,SMB,APAC,CSM39,SR20,2022-11-23,2023-08-14,,At Risk,90.7,30,2024-08-13,348,0.51,42,0.84,44285.97,102239.29,58,Workflow Automation,Ease of Use,,True,4.3
+AC1353,Wallace-Morales,Manufacturing,Enterprise,NA,CSM34,SR43,2022-07-05,2024-03-12,,At Risk,59.4,70,2023-05-18,457,0.79,5,0.4,11903.84,34957.82,56,Compliance,Cost,,False,4.8
+AC1354,Duffy Group,Manufacturing,Mid-Market,EMEA,CSM28,SR14,2022-11-27,2023-05-17,2024-10-19,Churned,87.2,0,2023-04-03,114,0.69,17,0.85,21973.77,67304.95,42,Analytics,Integration Capabilities,,True,3.2
+AC1355,"Mcbride, Mayer and Fisher",Healthcare,Mid-Market,LATAM,CSM31,SR44,2022-09-02,2023-04-11,2023-11-27,Churned,63.8,20,2023-02-01,455,0.65,50,1.0,46848.61,93934.51,50,Compliance,Cost,Budget,False,3.5
+AC1356,Garcia-Calderon,Technology,SMB,NA,CSM45,SR43,2022-08-27,2023-10-22,2023-11-11,Churned,49.4,90,2024-01-13,201,0.41,19,0.78,31947.45,176651.12,56,Analytics,Reputation,Competitor,False,3.7
+AC1357,Wilson-Garrett,Education,SMB,LATAM,CSM17,SR20,2022-08-08,2023-07-13,2024-12-22,Churned,72.6,10,2024-05-15,157,0.85,13,0.57,42970.84,44255.67,33,Compliance,Integration Capabilities,Budget,True,4.1
+AC1358,Walker and Sons,Healthcare,Mid-Market,LATAM,CSM48,SR27,2022-04-13,2024-02-02,,At Risk,83.0,50,2023-11-25,453,0.61,6,0.57,41220.04,176128.14,37,Analytics,Cost,,False,4.1
+AC1359,Moreno-Brooks,Manufacturing,Enterprise,APAC,CSM30,SR45,2022-10-08,2024-07-05,2024-08-06,Churned,88.0,-100,2023-01-02,333,0.54,41,0.0,9186.98,113634.22,46,Workflow Automation,Product Features,Internal Decision,True,4.3
+AC1360,Johnson and Sons,Finance,Mid-Market,NA,CSM8,SR11,2022-03-15,2024-01-12,2024-02-14,Churned,88.9,0,2023-05-06,438,0.74,38,0.65,34287.67,199197.36,25,Communication,Integration Capabilities,Competitor,True,3.7
+AC1361,"Franklin, Bennett and Moran",Manufacturing,Enterprise,APAC,CSM19,SR13,2022-07-31,2024-10-22,2024-12-28,Churned,82.5,30,2024-02-07,98,0.87,25,0.61,43819.5,236465.5,41,Workflow Automation,Product Features,Budget,False,5.0
+AC1362,"Wood, Green and Henderson",Manufacturing,Enterprise,EMEA,CSM6,SR30,2022-08-28,2023-06-03,2024-02-24,Churned,51.5,0,2024-09-19,30,0.73,25,0.37,30900.2,152096.22,14,Analytics,Cost,Competitor,False,4.4
+AC1363,Stone-Young,Healthcare,SMB,LATAM,CSM50,SR30,2022-10-27,2023-02-14,,At Risk,51.3,-50,2023-04-11,119,0.43,45,0.47,10157.27,236782.82,57,Compliance,Cost,,False,4.1
+AC1364,Shah-Rogers,Education,SMB,LATAM,CSM14,SR39,2022-12-30,2024-03-17,2024-06-06,Churned,66.1,20,2024-04-25,377,0.58,43,0.56,9468.16,49190.62,55,Workflow Automation,Product Features,Missing Feature,False,3.9
+AC1365,Brady-Farmer,Retail,Enterprise,LATAM,CSM16,SR24,2022-05-30,2023-05-25,,At Risk,97.3,-50,2024-06-28,10,0.84,30,0.54,6660.25,84195.27,49,Communication,Ease of Use,,False,5.0
+AC1366,Schultz-Herrera,Manufacturing,Mid-Market,APAC,CSM5,SR7,2022-06-13,2024-05-06,,Active,82.4,30,2023-03-26,481,0.51,15,0.65,23546.62,91803.91,43,Data Integration,Product Features,,True,4.3
+AC1367,Robinson and Sons,Technology,Enterprise,LATAM,CSM20,SR26,2022-04-18,2024-09-27,,Active,64.7,90,2024-07-27,26,0.49,37,0.62,8968.61,46617.29,36,Compliance,Integration Capabilities,,True,3.8
+AC1368,Wright-Gilbert,Finance,Enterprise,LATAM,CSM10,SR17,2022-07-15,2023-09-02,2023-11-06,Churned,97.2,-100,2024-07-07,70,0.85,31,0.47,43583.98,209526.99,52,Compliance,Integration Capabilities,Missing Feature,False,4.2
+AC1369,Green-Grimes,Finance,Enterprise,APAC,CSM34,SR21,2022-03-19,2024-12-12,,Active,94.0,30,2023-05-12,382,0.42,31,0.4,38183.77,42059.86,59,Communication,Product Features,,True,4.0
+AC1370,Lopez-Richardson,Healthcare,SMB,EMEA,CSM3,SR31,2022-09-28,2024-05-22,,At Risk,75.5,50,2023-06-13,64,0.69,31,0.54,2039.59,92347.43,50,Data Integration,Integration Capabilities,,False,3.8
+AC1371,"Buck, Miller and Johnson",Healthcare,Enterprise,EMEA,CSM8,SR23,2022-06-15,2024-05-26,2024-10-15,Churned,80.8,20,2024-09-12,97,0.93,10,0.5,37496.83,206530.08,41,Data Integration,Ease of Use,,False,5.0
+AC1372,Brown-Nichols,Healthcare,Enterprise,EMEA,CSM27,SR5,2022-06-29,2024-07-01,2024-11-18,Churned,100.0,70,2023-03-04,351,0.97,6,0.72,44368.38,11360.73,48,Analytics,Integration Capabilities,Missing Feature,False,5.0
+AC1373,"Martinez, Mckay and Brown",Healthcare,Mid-Market,EMEA,CSM2,SR6,2022-02-06,2023-07-25,,At Risk,70.6,70,2024-11-16,326,0.53,17,0.49,29710.21,6422.31,7,Data Integration,Integration Capabilities,,True,3.5
+AC1374,"Kent, Juarez and Hernandez",Manufacturing,Enterprise,EMEA,CSM14,SR4,2022-12-07,2024-03-28,,At Risk,76.8,30,2024-01-21,413,0.76,3,0.64,37190.0,139053.27,43,Communication,Product Features,,True,4.0
+AC1375,"White, Snyder and Burke",Retail,SMB,LATAM,CSM6,SR2,2022-08-22,2023-01-22,,Active,77.0,50,2024-08-21,404,1.0,25,0.72,14246.79,189376.85,46,Workflow Automation,Product Features,,True,4.5
+AC1376,Fritz PLC,Education,Enterprise,APAC,CSM44,SR39,2022-08-11,2024-06-26,2024-07-18,Churned,77.9,-50,2023-07-30,431,0.38,23,0.24,25632.66,124957.64,29,Communication,Cost,,False,5.0
+AC1377,Cooper-Banks,Healthcare,Mid-Market,APAC,CSM40,SR12,2022-08-13,2024-01-07,,At Risk,67.0,-50,2024-12-03,25,0.58,32,0.65,17087.24,118563.59,19,Workflow Automation,Integration Capabilities,,False,4.3
+AC1378,Duncan-Adams,Manufacturing,Enterprise,NA,CSM19,SR30,2022-06-04,2023-04-22,,At Risk,85.2,20,2023-05-18,81,1.0,8,0.9,34215.7,78600.12,20,Data Integration,Integration Capabilities,,True,3.6
+AC1379,"Wade, Cook and Conway",Healthcare,Enterprise,NA,CSM3,SR33,2022-09-14,2024-09-16,2024-10-21,Churned,89.5,50,2023-02-03,216,0.62,6,0.57,23232.82,181475.95,57,Compliance,Cost,Missing Feature,False,3.5
+AC1380,Wright Ltd,Technology,SMB,NA,CSM48,SR43,2022-12-30,2024-03-23,,Active,49.6,50,2024-09-30,28,0.69,5,0.41,20812.58,177572.75,25,Data Integration,Integration Capabilities,,False,4.5
+AC1381,Duran LLC,Education,Enterprise,APAC,CSM22,SR12,2022-06-06,2023-09-10,2023-10-11,Churned,70.8,-50,2023-03-05,387,0.76,38,0.87,12965.88,169985.15,32,Data Integration,Product Features,Budget,True,3.3
+AC1382,Villarreal-Thomas,Healthcare,SMB,LATAM,CSM30,SR45,2022-10-26,2023-11-15,,At Risk,64.1,20,2023-12-23,321,0.74,39,0.66,18036.44,170081.77,49,Communication,Cost,,True,4.6
+AC1383,Hanna PLC,Retail,SMB,EMEA,CSM8,SR2,2022-06-17,2023-01-06,,Active,88.0,-100,2023-08-01,112,0.72,30,0.66,32431.16,164186.26,32,Data Integration,Ease of Use,,True,4.2
+AC1384,Oneill Inc,Education,SMB,LATAM,CSM28,SR2,2022-09-24,2023-10-13,2024-08-13,Churned,53.0,0,2024-07-01,383,0.67,44,0.65,22263.3,123836.48,6,Communication,Reputation,Competitor,True,4.2
+AC1385,Hernandez PLC,Technology,Mid-Market,NA,CSM22,SR1,2022-11-28,2023-08-25,2024-04-15,Churned,61.1,50,2023-07-11,217,0.45,31,0.55,36853.92,150980.69,40,Compliance,Product Features,Internal Decision,True,5.0
+AC1386,Khan-Hughes,Technology,Enterprise,LATAM,CSM15,SR46,2022-07-12,2024-07-09,2024-10-30,Churned,62.7,-100,2024-07-19,221,0.93,36,0.92,15792.51,20560.09,46,Communication,Integration Capabilities,Budget,False,4.0
+AC1387,"Boyd, Thomas and Adams",Manufacturing,Mid-Market,LATAM,CSM45,SR28,2022-01-01,2024-08-12,2024-09-25,Churned,64.8,20,2024-09-11,376,0.8,12,0.64,23462.02,112337.12,37,Workflow Automation,Reputation,Missing Feature,False,3.6
+AC1388,Baldwin Inc,Manufacturing,Enterprise,LATAM,CSM9,SR19,2022-04-21,2024-06-24,,At Risk,65.1,50,2023-01-02,431,0.79,43,0.79,32625.01,93262.61,35,Workflow Automation,Reputation,,True,3.8
+AC1389,Ramirez-James,Manufacturing,Enterprise,NA,CSM43,SR31,2022-07-14,2023-01-29,2024-03-17,Churned,74.0,10,2024-02-14,85,0.83,38,0.57,24609.29,199403.2,36,Compliance,Ease of Use,Competitor,False,3.9
+AC1390,"Taylor, Williams and Sanchez",Healthcare,Mid-Market,APAC,CSM23,SR44,2022-08-13,2023-06-24,2023-12-18,Churned,63.7,90,2023-09-28,21,0.55,4,1.0,16886.74,32922.48,19,Analytics,Reputation,Competitor,False,3.9
+AC1391,Vazquez Group,Finance,Mid-Market,NA,CSM50,SR36,2022-09-05,2023-12-18,,Active,95.5,90,2024-07-07,314,1.0,42,0.56,5207.1,17353.4,33,Communication,Product Features,,False,4.2
+AC1392,Sullivan-Mcbride,Technology,Enterprise,NA,CSM36,SR3,2022-07-07,2024-03-21,,Active,76.5,-50,2024-06-11,450,0.38,13,0.29,45549.29,43472.97,23,Communication,Reputation,,False,4.0
+AC1393,"Long, Curry and Graves",Healthcare,SMB,APAC,CSM22,SR9,2022-01-07,2023-04-11,2024-04-30,Churned,68.6,10,2024-08-17,229,1.0,26,0.55,38460.96,6613.96,58,Communication,Cost,Missing Feature,False,5.0
+AC1394,Fernandez LLC,Healthcare,Mid-Market,APAC,CSM46,SR49,2022-07-16,2024-01-30,,Active,67.9,0,2023-04-16,390,1.0,48,0.7,26482.51,197867.86,13,Communication,Integration Capabilities,,False,4.3
+AC1395,Russell and Sons,Education,Enterprise,APAC,CSM2,SR29,2022-01-12,2024-08-10,2024-09-18,Churned,67.3,-100,2024-08-09,372,0.82,33,0.94,47182.14,25770.66,25,Communication,Ease of Use,Internal Decision,True,3.9
+AC1396,"Powell, Guerrero and Perez",Healthcare,Enterprise,EMEA,CSM37,SR4,2022-06-23,2024-06-21,,At Risk,69.9,50,2023-06-24,210,0.65,43,0.92,35039.52,219018.86,51,Compliance,Cost,,True,4.4
+AC1397,Rodriguez-Newton,Finance,Enterprise,EMEA,CSM45,SR26,2022-11-19,2023-10-23,,Active,96.7,90,2024-05-10,324,0.76,50,0.61,30909.37,113325.24,27,Communication,Ease of Use,,False,4.2
+AC1398,Long-Holt,Healthcare,SMB,APAC,CSM25,SR47,2022-06-17,2023-08-13,,Active,91.1,90,2024-04-25,281,0.65,18,0.87,10686.73,130359.54,24,Data Integration,Cost,,False,4.2
+AC1399,Miller-Hernandez,Retail,SMB,NA,CSM35,SR38,2022-05-13,2023-10-20,,At Risk,38.9,50,2024-07-28,263,0.88,7,0.35,36599.31,211187.94,21,Data Integration,Cost,,True,4.4
+AC1400,Reid-Gibson,Manufacturing,SMB,LATAM,CSM20,SR37,2022-08-16,2023-03-12,,At Risk,88.5,30,2023-05-30,125,0.77,47,0.71,49450.0,143571.32,45,Data Integration,Reputation,,True,4.5
+AC1401,"Monroe, Miller and Morgan",Finance,Mid-Market,EMEA,CSM46,SR25,2022-12-30,2023-11-26,,Active,67.6,-50,2024-02-21,172,0.86,33,0.83,29118.45,206596.47,28,Communication,Product Features,,True,4.9
+AC1402,Anthony-Goodman,Education,Mid-Market,NA,CSM6,SR4,2022-12-12,2023-05-25,,Active,58.4,70,2023-05-17,114,0.78,28,0.41,3903.63,170821.5,30,Data Integration,Reputation,,False,3.5
+AC1403,Haynes-Moss,Education,Mid-Market,LATAM,CSM41,SR28,2022-06-24,2023-08-28,,At Risk,80.4,50,2023-08-20,426,0.72,10,0.83,7217.31,36145.37,50,Communication,Ease of Use,,False,3.8
+AC1404,Hall Inc,Technology,Enterprise,NA,CSM45,SR14,2022-02-03,2023-10-09,,Active,73.0,0,2024-09-15,488,0.74,35,0.43,18466.6,238196.33,43,Communication,Product Features,,True,3.6
+AC1405,"Townsend, Jackson and Anderson",Technology,Mid-Market,NA,CSM34,SR10,2022-03-09,2023-02-22,2024-04-21,Churned,91.7,20,2024-06-08,196,0.59,19,0.84,14699.06,11854.56,14,Workflow Automation,Reputation,Internal Decision,True,4.3
+AC1406,"Schneider, Robertson and Lawrence",Finance,Mid-Market,EMEA,CSM12,SR48,2022-08-20,2024-10-07,,Active,51.8,90,2023-02-19,183,0.81,4,0.7,43521.33,107305.91,41,Compliance,Reputation,,False,4.2
+AC1407,Garcia-Duarte,Finance,Mid-Market,LATAM,CSM47,SR39,2022-09-09,2023-04-30,2023-07-16,Churned,72.9,0,2023-06-27,263,0.51,40,0.87,23046.81,115232.7,33,Workflow Automation,Cost,Budget,False,3.9
+AC1408,"Wright, Weber and Pruitt",Manufacturing,Enterprise,LATAM,CSM25,SR15,2022-08-09,2024-08-12,,At Risk,61.7,90,2023-11-13,28,0.79,42,0.45,44502.16,185298.63,46,Analytics,Ease of Use,,False,3.5
+AC1409,Taylor Ltd,Technology,Enterprise,APAC,CSM36,SR42,2022-09-02,2024-08-07,2024-12-17,Churned,69.4,90,2023-07-28,48,0.57,12,0.42,47758.42,137749.41,53,Analytics,Reputation,,True,4.4
+AC1410,Smith-Hayden,Education,Enterprise,NA,CSM8,SR43,2022-01-31,2024-07-11,,Active,73.3,-100,2024-07-06,145,0.95,50,0.43,10290.25,208274.19,58,Data Integration,Integration Capabilities,,True,3.1
+AC1411,"Cole, Fox and Holt",Technology,Enterprise,APAC,CSM26,SR38,2022-11-30,2024-10-03,2024-11-04,Churned,77.2,-100,2024-08-22,179,1.0,27,0.71,9025.4,10893.95,38,Compliance,Integration Capabilities,Missing Feature,True,5.0
+AC1412,Stevens-Stafford,Healthcare,Enterprise,EMEA,CSM19,SR10,2022-04-01,2023-02-13,2023-05-23,Churned,80.0,-50,2024-03-23,83,0.75,19,0.17,47608.24,171259.1,8,Data Integration,Cost,Competitor,True,4.2
+AC1413,Harris Inc,Healthcare,Mid-Market,LATAM,CSM7,SR21,2022-06-15,2024-08-25,2024-09-30,Churned,77.5,30,2024-09-17,137,0.62,24,0.57,47078.88,225377.87,8,Workflow Automation,Ease of Use,,False,4.0
+AC1414,Wallace-Sanders,Education,Enterprise,LATAM,CSM8,SR18,2022-11-28,2023-02-13,2023-03-25,Churned,72.3,70,2024-06-29,288,1.0,26,0.53,3272.91,12082.08,45,Workflow Automation,Product Features,Missing Feature,False,4.1
+AC1415,Evans PLC,Technology,Enterprise,NA,CSM16,SR49,2022-05-11,2023-03-15,,Active,68.9,20,2023-10-17,295,0.86,26,0.64,22299.11,212338.07,37,Workflow Automation,Ease of Use,,True,3.9
+AC1416,Johnson-Brown,Retail,SMB,LATAM,CSM36,SR29,2022-12-28,2024-02-18,2024-08-20,Churned,46.1,70,2024-09-02,497,0.75,39,0.54,14462.47,243160.04,5,Analytics,Integration Capabilities,Missing Feature,False,4.0
+AC1417,Walker-King,Manufacturing,Mid-Market,APAC,CSM41,SR14,2022-11-11,2024-09-11,,At Risk,57.3,-100,2023-07-11,87,0.99,47,0.77,26704.46,22134.13,10,Communication,Product Features,,False,4.7
+AC1418,Harrell-Smith,Manufacturing,Enterprise,APAC,CSM28,SR14,2022-07-20,2024-03-08,,At Risk,92.2,30,2024-02-23,330,0.82,16,0.37,48982.02,178399.75,22,Workflow Automation,Cost,,True,4.9
+AC1419,"Reyes, Waters and York",Education,Enterprise,APAC,CSM2,SR45,2022-06-26,2024-11-27,2024-12-29,Churned,61.1,-100,2024-02-05,316,0.65,30,0.74,213.96,7346.76,16,Communication,Reputation,Internal Decision,False,4.4
+AC1420,Ramirez Ltd,Technology,SMB,NA,CSM35,SR2,2022-10-31,2023-03-22,,At Risk,83.6,-50,2023-06-06,185,0.62,24,0.48,41373.34,92701.61,16,Analytics,Product Features,,False,5.0
+AC1421,"Duke, Allen and Edwards",Retail,Mid-Market,NA,CSM15,SR48,2022-02-07,2024-11-19,2024-12-11,Churned,74.4,20,2023-10-11,353,0.67,45,0.46,17891.05,27041.8,44,Compliance,Ease of Use,Competitor,False,4.1
+AC1422,Curtis Group,Finance,SMB,APAC,CSM32,SR46,2022-09-11,2024-03-10,,Active,78.0,-100,2023-08-11,105,0.7,40,0.68,19804.31,218129.48,41,Data Integration,Integration Capabilities,,True,4.9
+AC1423,Murphy-Friedman,Retail,Enterprise,EMEA,CSM5,SR38,2022-01-08,2024-07-28,2024-09-14,Churned,66.1,-50,2023-05-19,70,0.71,16,0.47,46678.17,214592.34,38,Compliance,Ease of Use,Budget,False,4.1
+AC1424,"Lara, Fleming and Baker",Manufacturing,Enterprise,APAC,CSM44,SR36,2022-08-10,2024-11-16,,Active,66.5,50,2023-06-24,333,0.59,43,0.31,47153.71,17706.39,25,Communication,Integration Capabilities,,True,4.0
+AC1425,Leon LLC,Manufacturing,Enterprise,LATAM,CSM32,SR24,2022-02-09,2024-09-19,,Active,81.4,10,2023-02-07,29,1.0,17,0.69,45919.57,135440.52,25,Analytics,Integration Capabilities,,True,3.8
+AC1426,"Charles, Stephens and Ryan",Healthcare,Enterprise,NA,CSM48,SR15,2022-02-03,2024-04-21,,At Risk,54.6,-50,2023-01-08,474,0.46,15,0.34,9843.84,85660.04,9,Analytics,Product Features,,False,4.9
+AC1427,"Ferguson, Alvarez and Robinson",Healthcare,Enterprise,APAC,CSM17,SR16,2022-10-10,2023-05-02,2023-05-06,Churned,79.3,10,2024-08-27,495,0.58,21,0.41,41625.88,206300.28,38,Workflow Automation,Product Features,,False,3.6
+AC1428,Glenn Group,Healthcare,Enterprise,LATAM,CSM38,SR8,2022-06-19,2024-08-01,2024-11-29,Churned,65.9,-100,2024-02-29,474,0.96,2,0.59,18869.76,223070.52,49,Analytics,Ease of Use,Budget,False,3.3
+AC1429,Wells-Smith,Education,SMB,APAC,CSM40,SR41,2022-12-15,2023-09-02,,Active,100.0,-100,2023-09-02,291,0.47,3,0.48,14745.84,98456.59,11,Data Integration,Integration Capabilities,,True,4.7
+AC1430,"Herring, Hawkins and West",Technology,Enterprise,NA,CSM30,SR25,2022-09-10,2023-01-08,,At Risk,81.2,100,2024-06-20,322,0.61,6,0.35,16980.82,234708.29,55,Analytics,Integration Capabilities,,False,3.5
+AC1431,Roach-Smith,Technology,SMB,NA,CSM7,SR1,2022-12-02,2023-02-08,,Active,61.4,100,2024-10-11,409,0.7,12,0.64,45218.5,35865.5,37,Compliance,Cost,,False,3.9
+AC1432,Coleman-Hughes,Manufacturing,Enterprise,LATAM,CSM12,SR16,2022-12-02,2023-03-14,2023-09-19,Churned,74.4,-100,2023-07-10,35,0.49,8,0.66,15583.34,111782.79,46,Compliance,Cost,,False,4.6
+AC1433,Phillips Ltd,Retail,SMB,LATAM,CSM20,SR39,2022-05-18,2024-10-11,,At Risk,72.6,-100,2023-09-07,270,0.66,37,0.62,32883.84,40427.09,20,Data Integration,Reputation,,False,4.6
+AC1434,Flores and Sons,Education,Mid-Market,EMEA,CSM13,SR41,2022-02-26,2023-01-30,,Active,61.6,30,2024-02-14,101,0.99,42,0.68,23786.25,174501.05,34,Data Integration,Cost,,False,4.0
+AC1435,Gray-Smith,Technology,Mid-Market,APAC,CSM27,SR22,2022-02-11,2023-09-24,2023-11-17,Churned,93.2,70,2023-04-27,453,0.46,50,0.7,45527.15,126503.01,5,Workflow Automation,Ease of Use,Internal Decision,False,4.2
+AC1436,Banks-Garcia,Retail,Mid-Market,APAC,CSM48,SR25,2022-05-13,2023-06-08,2024-08-28,Churned,61.0,0,2024-09-04,427,0.79,0,0.66,18140.86,23064.13,6,Data Integration,Product Features,Competitor,True,3.9
+AC1437,Armstrong-Jennings,Retail,Enterprise,APAC,CSM3,SR2,2022-10-15,2024-04-19,2024-10-16,Churned,87.9,20,2023-03-05,94,0.59,14,0.65,44269.11,181114.99,26,Data Integration,Ease of Use,Competitor,True,3.9
+AC1438,"Werner, Hess and Love",Retail,Mid-Market,NA,CSM2,SR44,2022-05-06,2024-01-18,2024-07-12,Churned,65.8,-50,2024-04-09,178,0.8,13,0.56,15253.62,63836.73,56,Compliance,Ease of Use,,False,3.3
+AC1439,Silva LLC,Technology,Mid-Market,NA,CSM8,SR10,2022-07-07,2023-10-23,,Active,48.0,10,2023-04-22,103,0.86,34,0.36,18909.78,96692.55,43,Communication,Ease of Use,,False,4.1
+AC1440,"Fuentes, Barnes and Jackson",Technology,Enterprise,EMEA,CSM35,SR19,2022-04-30,2024-07-15,,At Risk,75.8,10,2023-08-03,32,0.63,40,0.99,39780.6,218848.62,59,Data Integration,Reputation,,False,4.1
+AC1441,"Daniel, Singh and Morales",Retail,Enterprise,NA,CSM31,SR43,2022-05-02,2024-07-25,,Active,86.3,90,2024-03-17,203,0.76,48,0.55,44121.1,189028.39,28,Communication,Reputation,,False,4.0
+AC1442,"Gibson, Carpenter and Faulkner",Finance,Enterprise,APAC,CSM34,SR45,2022-02-10,2023-04-06,,At Risk,96.9,70,2024-05-24,142,0.92,37,0.99,20047.3,230690.38,42,Analytics,Ease of Use,,True,4.1
+AC1443,"Davis, Carroll and Crawford",Retail,Mid-Market,EMEA,CSM26,SR14,2022-08-16,2024-05-30,,At Risk,61.8,100,2024-11-27,85,0.61,23,0.36,12726.46,25765.93,53,Analytics,Cost,,False,4.4
+AC1444,Johnson-Gonzalez,Finance,SMB,NA,CSM30,SR33,2022-12-23,2023-03-07,,At Risk,66.2,70,2023-05-24,244,0.09,27,1.0,20447.64,202103.59,25,Compliance,Integration Capabilities,,True,3.7
+AC1445,"Byrd, Conrad and Smith",Education,SMB,APAC,CSM42,SR5,2022-08-15,2024-03-26,,Active,66.4,20,2024-06-04,436,1.0,32,0.36,25639.55,162695.33,55,Compliance,Ease of Use,,True,4.6
+AC1446,Dennis LLC,Healthcare,Mid-Market,NA,CSM35,SR13,2022-11-25,2024-10-20,,At Risk,66.2,20,2024-07-10,159,0.44,47,0.94,40778.24,172467.14,22,Workflow Automation,Reputation,,False,4.5
+AC1447,"Nichols, Sharp and Campos",Manufacturing,Enterprise,APAC,CSM1,SR50,2022-08-09,2023-10-22,,At Risk,88.8,50,2023-01-02,489,0.77,25,0.72,41093.07,190662.49,5,Communication,Reputation,,False,3.4
+AC1448,"Hartman, Blackwell and Avila",Retail,Mid-Market,EMEA,CSM15,SR47,2022-03-16,2023-07-29,,At Risk,76.7,10,2023-04-15,269,0.51,37,0.32,39298.73,190617.22,51,Communication,Cost,,False,4.2
+AC1449,"Lane, Miller and Gregory",Finance,SMB,LATAM,CSM50,SR45,2022-05-21,2024-12-14,,At Risk,92.4,70,2023-04-18,441,0.62,35,0.56,1505.2,39042.81,60,Workflow Automation,Cost,,False,3.4
+AC1450,"Osborn, Williams and Ramirez",Healthcare,Mid-Market,APAC,CSM22,SR15,2022-08-20,2023-01-06,,At Risk,75.1,90,2023-11-17,158,0.85,20,0.76,29347.75,144056.47,7,Workflow Automation,Ease of Use,,False,4.3
+AC1451,Lopez-Norris,Finance,Enterprise,LATAM,CSM25,SR14,2022-06-03,2023-01-28,,Active,65.7,90,2024-11-01,202,0.57,12,0.76,23738.88,85566.13,33,Compliance,Product Features,,True,4.4
+AC1452,"Sawyer, Riley and Schmidt",Manufacturing,Enterprise,EMEA,CSM3,SR45,2022-12-28,2024-05-22,,Active,72.4,0,2024-11-23,106,0.61,4,0.83,45567.27,99544.06,18,Workflow Automation,Cost,,False,3.8
+AC1453,Walker-Marshall,Healthcare,Mid-Market,NA,CSM24,SR34,2022-04-22,2023-01-26,2024-10-23,Churned,86.2,30,2024-06-07,445,0.67,26,0.39,19555.26,247450.81,13,Data Integration,Integration Capabilities,Internal Decision,False,4.8
+AC1454,Swanson Ltd,Education,SMB,EMEA,CSM14,SR20,2022-09-01,2024-01-07,,At Risk,76.8,0,2024-10-09,314,0.56,36,0.32,46957.71,148935.53,37,Communication,Cost,,True,3.4
+AC1455,"Chambers, Oconnor and Ho",Retail,Mid-Market,NA,CSM26,SR39,2022-09-16,2024-10-06,,At Risk,69.4,100,2024-11-21,455,1.0,31,0.48,23010.23,146152.52,52,Analytics,Cost,,False,4.7
+AC1456,Mayo Inc,Education,Mid-Market,APAC,CSM26,SR40,2022-03-09,2023-03-24,,Active,73.0,50,2024-09-06,132,0.46,11,0.51,44998.23,184644.77,34,Communication,Ease of Use,,False,3.4
+AC1457,Malone-Cox,Healthcare,Mid-Market,NA,CSM16,SR11,2022-08-21,2023-03-02,,At Risk,62.2,-50,2024-03-03,362,0.52,46,0.22,36120.47,58227.44,36,Communication,Reputation,,True,4.8
+AC1458,"Sanchez, Santos and Todd",Finance,SMB,NA,CSM33,SR50,2022-01-26,2024-06-02,,At Risk,78.2,70,2023-12-13,89,0.56,16,0.64,10368.6,15935.62,6,Analytics,Integration Capabilities,,True,3.6
+AC1459,"Chapman, Haney and Herrera",Manufacturing,Mid-Market,EMEA,CSM26,SR3,2022-07-26,2024-06-23,2024-06-27,Churned,34.9,-50,2024-12-26,368,1.0,8,0.64,16355.52,188425.63,36,Communication,Product Features,Budget,False,3.7
+AC1460,Wilson-Grant,Retail,Enterprise,LATAM,CSM9,SR31,2022-07-26,2023-05-02,,Active,46.0,0,2023-09-13,434,0.4,1,0.93,30349.43,48422.97,12,Data Integration,Integration Capabilities,,True,4.8
+AC1461,"Ellis, Hill and Steele",Manufacturing,SMB,APAC,CSM10,SR29,2022-05-07,2024-11-12,,Active,86.3,-100,2024-10-25,462,0.48,43,0.9,26614.94,113304.25,8,Data Integration,Product Features,,True,4.2
+AC1462,"Gonzalez, Rodgers and Hawkins",Finance,Mid-Market,NA,CSM39,SR1,2022-07-08,2024-02-02,2024-10-14,Churned,84.8,50,2024-04-26,397,0.79,12,0.3,46441.03,96787.95,20,Workflow Automation,Product Features,Budget,False,3.4
+AC1463,Thompson-Perry,Healthcare,Mid-Market,EMEA,CSM44,SR43,2022-12-30,2023-12-31,2024-06-29,Churned,67.3,-50,2024-01-17,413,0.83,42,0.32,8394.14,45926.58,31,Data Integration,Product Features,Missing Feature,True,3.9
+AC1464,Jacobs-Gilbert,Manufacturing,SMB,EMEA,CSM35,SR26,2022-01-06,2023-03-25,,Active,72.4,10,2024-05-02,114,0.86,6,0.73,17828.82,47537.28,30,Compliance,Product Features,,True,3.5
+AC1465,Meyer Ltd,Education,SMB,NA,CSM43,SR18,2022-12-29,2024-06-14,,At Risk,96.7,-100,2024-02-01,39,0.47,13,0.82,20554.84,193048.56,36,Analytics,Reputation,,False,3.7
+AC1466,Martinez PLC,Technology,SMB,APAC,CSM7,SR39,2022-10-22,2024-10-12,,At Risk,77.5,0,2024-10-20,175,0.75,11,0.64,31767.67,221571.92,25,Communication,Product Features,,True,4.3
+AC1467,Brown-Henson,Technology,Enterprise,LATAM,CSM25,SR33,2022-09-14,2024-04-11,,Active,80.9,90,2024-05-11,305,0.86,45,0.69,49419.04,61988.45,44,Analytics,Cost,,True,3.4
+AC1468,"Haney, Dunlap and Berg",Education,SMB,NA,CSM4,SR9,2022-09-02,2023-11-19,,At Risk,79.0,10,2023-06-09,82,0.59,24,0.38,10219.27,14287.15,51,Data Integration,Integration Capabilities,,False,3.9
+AC1469,"Mullen, Campbell and Simpson",Finance,SMB,APAC,CSM21,SR42,2022-07-26,2023-05-17,,Active,77.7,90,2024-01-09,410,0.75,26,0.81,32402.32,75671.5,6,Workflow Automation,Cost,,True,4.7
+AC1470,"Robinson, James and Pierce",Retail,Enterprise,NA,CSM43,SR16,2022-09-30,2023-11-13,,Active,80.0,100,2024-08-23,451,0.8,24,0.62,26073.6,49968.64,45,Analytics,Product Features,,False,4.4
+AC1471,"Wallace, Miranda and Carlson",Healthcare,SMB,NA,CSM41,SR10,2022-08-12,2024-06-04,,Active,82.3,-50,2023-11-28,93,0.69,37,1.0,27442.36,199832.11,18,Workflow Automation,Reputation,,True,3.7
+AC1472,"Morris, Callahan and Snyder",Manufacturing,Mid-Market,APAC,CSM11,SR47,2022-09-13,2024-11-19,2024-12-14,Churned,96.8,50,2024-07-15,95,0.43,38,0.76,12448.47,74911.46,33,Workflow Automation,Cost,Internal Decision,True,4.7
+AC1473,"Perez, Johnson and Martin",Finance,Mid-Market,LATAM,CSM11,SR31,2022-05-12,2024-04-14,,At Risk,46.4,0,2024-12-28,424,0.73,50,0.74,24100.04,191672.68,32,Analytics,Cost,,False,4.1
+AC1474,Sampson Inc,Retail,Enterprise,EMEA,CSM17,SR25,2022-03-15,2024-01-05,,At Risk,80.7,20,2024-08-01,197,0.73,35,0.38,30301.27,22625.21,13,Communication,Ease of Use,,True,5.0
+AC1475,Davis-Thomas,Retail,SMB,NA,CSM33,SR47,2022-12-02,2023-02-22,,At Risk,67.4,50,2024-08-22,478,0.79,26,0.47,47014.25,242770.7,28,Communication,Integration Capabilities,,True,2.9
+AC1476,Garcia-Pittman,Technology,SMB,LATAM,CSM3,SR8,2022-06-11,2024-03-15,,Active,61.1,10,2024-01-11,395,0.41,27,0.82,47854.84,193961.24,53,Compliance,Reputation,,False,3.7
+AC1477,Pacheco-Rojas,Manufacturing,Enterprise,APAC,CSM45,SR4,2022-09-24,2023-12-11,,At Risk,67.3,10,2023-05-11,129,0.49,30,0.62,1725.38,204215.97,45,Analytics,Ease of Use,,True,3.6
+AC1478,"Perez, Lopez and Sanders",Education,Enterprise,EMEA,CSM17,SR16,2022-01-20,2024-03-12,,Active,89.9,-100,2024-02-03,64,0.76,49,0.49,4615.29,179344.32,29,Communication,Reputation,,False,4.4
+AC1479,"Collins, Vasquez and Smith",Healthcare,Enterprise,EMEA,CSM28,SR11,2022-07-11,2023-09-21,,At Risk,75.1,20,2024-11-30,261,0.7,34,0.31,32924.3,98783.21,24,Communication,Product Features,,True,4.0
+AC1480,Taylor-Cruz,Technology,Mid-Market,EMEA,CSM18,SR48,2022-02-15,2024-05-13,2024-10-05,Churned,79.8,50,2024-10-12,362,0.97,19,0.45,321.02,46257.68,36,Analytics,Product Features,Budget,False,5.0
+AC1481,"Powell, Barnes and Pacheco",Education,Enterprise,LATAM,CSM42,SR19,2022-08-16,2024-04-02,,Active,83.4,0,2023-07-14,196,0.4,11,0.43,35202.36,53515.03,16,Data Integration,Product Features,,False,4.7
+AC1482,"Clark, Lang and Merritt",Retail,SMB,EMEA,CSM4,SR48,2022-06-11,2023-05-17,2023-06-06,Churned,93.6,10,2023-01-08,137,0.7,26,0.63,22036.52,228677.99,11,Workflow Automation,Product Features,Missing Feature,True,3.4
+AC1483,"Walters, Williamson and Gaines",Healthcare,Mid-Market,NA,CSM22,SR2,2022-12-08,2024-10-20,,At Risk,94.8,70,2023-04-30,349,0.5,48,0.77,5040.46,19958.83,53,Analytics,Reputation,,False,4.7
+AC1484,"Wood, Gould and Barrera",Healthcare,SMB,EMEA,CSM34,SR1,2022-05-15,2024-12-15,,At Risk,75.7,70,2023-05-13,247,0.89,48,0.97,16851.5,110216.14,28,Compliance,Cost,,False,4.1
+AC1485,"Spears, Wallace and Nunez",Finance,Enterprise,LATAM,CSM25,SR40,2022-03-23,2023-05-18,2023-12-09,Churned,72.4,30,2023-12-09,452,0.69,21,0.45,40313.51,5755.74,60,Communication,Ease of Use,Budget,False,3.6
+AC1486,Underwood-Deleon,Technology,Mid-Market,EMEA,CSM24,SR29,2022-07-27,2023-07-12,,At Risk,81.6,90,2024-01-07,216,0.67,42,0.67,9396.75,246614.44,57,Compliance,Product Features,,False,3.3
+AC1487,Ellis-Martinez,Healthcare,Enterprise,APAC,CSM44,SR29,2022-03-21,2023-06-23,2023-09-04,Churned,73.6,70,2023-12-30,209,0.91,47,0.38,30629.62,24935.46,32,Communication,Product Features,Internal Decision,True,4.0
+AC1488,"Day, Robles and Bates",Retail,Enterprise,EMEA,CSM34,SR37,2022-02-26,2024-08-20,,Active,47.2,0,2023-10-16,259,0.44,50,0.76,4354.49,208926.76,40,Communication,Ease of Use,,False,3.8
+AC1489,Patterson Inc,Healthcare,Mid-Market,EMEA,CSM16,SR14,2022-08-24,2023-12-14,2024-05-27,Churned,100.0,-50,2024-12-15,59,0.79,27,0.71,49668.07,12159.34,25,Communication,Cost,Competitor,False,3.5
+AC1490,Hooper-Obrien,Manufacturing,Mid-Market,NA,CSM43,SR9,2022-08-28,2023-06-19,,At Risk,69.2,-50,2024-03-28,412,0.55,44,0.39,16640.06,59832.52,41,Data Integration,Product Features,,False,4.3
+AC1491,Moreno and Sons,Education,Enterprise,LATAM,CSM42,SR42,2022-03-21,2023-08-20,,At Risk,88.0,10,2024-10-18,119,0.78,16,0.43,5784.5,26481.68,10,Compliance,Reputation,,False,4.2
+AC1492,Flowers-Norris,Manufacturing,SMB,APAC,CSM9,SR21,2022-03-11,2023-10-17,,Active,46.3,20,2023-06-13,36,0.96,37,0.34,26780.15,212544.06,32,Compliance,Cost,,False,3.4
+AC1493,Herman-Weiss,Retail,Enterprise,EMEA,CSM7,SR26,2022-04-10,2023-04-09,2024-01-28,Churned,76.7,70,2023-12-05,166,0.74,9,0.59,40807.4,77721.77,19,Communication,Integration Capabilities,Competitor,False,3.4
+AC1494,Gutierrez-Le,Retail,Enterprise,NA,CSM39,SR21,2022-10-26,2024-02-24,,Active,92.0,20,2024-06-18,439,0.36,45,0.3,28698.6,159613.88,18,Communication,Cost,,False,3.9
+AC1495,Evans-Weber,Education,SMB,APAC,CSM10,SR46,2022-08-12,2024-05-08,2024-07-14,Churned,56.0,10,2024-06-10,363,0.94,47,0.36,2628.32,217030.81,16,Communication,Integration Capabilities,Missing Feature,False,4.8
+AC1496,"Hall, Burke and Gould",Manufacturing,SMB,NA,CSM36,SR26,2022-05-22,2023-04-25,,At Risk,90.5,30,2023-07-19,392,0.95,25,0.98,19553.15,134321.89,23,Compliance,Ease of Use,,False,4.0
+AC1497,"Decker, Campbell and Garcia",Technology,Mid-Market,NA,CSM9,SR21,2022-08-11,2023-05-03,,Active,59.8,20,2024-06-28,239,0.68,41,0.49,8184.72,38702.44,49,Communication,Cost,,False,3.6
+AC1498,Hill and Sons,Retail,SMB,EMEA,CSM48,SR42,2022-01-10,2023-04-30,2024-08-01,Churned,77.3,100,2024-05-14,57,0.64,43,0.45,39274.96,215315.54,29,Communication,Ease of Use,Budget,True,3.9
+AC1499,"Wolfe, Cohen and Lloyd",Education,SMB,NA,CSM8,SR33,2022-06-13,2024-03-27,,At Risk,83.2,0,2023-10-23,326,0.89,46,0.28,20199.7,13328.24,20,Communication,Integration Capabilities,,True,3.8
