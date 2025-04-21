@@ -1,4 +1,4 @@
-# 🧠 Company Culture & Business Performance
+# Company Culture & Business Performance
 
 This project explores the relationship between **employee engagement** and **business outcomes**—specifically revenue and operational efficiency—through structured data analysis and basic machine learning techniques.
 
@@ -26,7 +26,7 @@ Using a PostgreSQL backend and a Jupyter notebook workflow, the following questi
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** (Pandas, Seaborn, Matplotlib, SQLAlchemy)
 - **PostgreSQL** for relational data modeling
@@ -36,7 +36,7 @@ Using a PostgreSQL backend and a Jupyter notebook workflow, the following questi
 
 ---
 
-## 📁 Key Files
+## Key Files
 
 - `notebooks/what_employee_engagement_metrics_impact_business_most.ipynb`  
   → Main analysis notebook with detailed markdown annotations and visualizations
@@ -49,7 +49,7 @@ Using a PostgreSQL backend and a Jupyter notebook workflow, the following questi
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 This project is designed for **hands-on learning**. It’s meant to simulate how a product or business analyst might approach ambiguous problems using data, and serve as a sandbox for learning skills in:
 
@@ -61,7 +61,7 @@ This project is designed for **hands-on learning**. It’s meant to simulate how
 
 ---
 
-## 🚧 Future Ideas
+## Future Ideas
 
 - Incorporate basic **regression modeling** to evaluate predictive power
 - Introduce **temporal slicing** to simulate before/after engagement impact
@@ -70,13 +70,13 @@ This project is designed for **hands-on learning**. It’s meant to simulate how
 
 ---
 
-## 🧪 Disclaimer
+## Disclaimer
 
 This dataset is **mock data** and not intended to reflect real-world employee or customer behavior. All insights are illustrative.
 
 ---
 
-## 👋 Contact
+## Contact
 
 Created and maintained by **Mike Else**  
-[LinkedIn](https://www.linkedin.com/in/mike-else-462a8a20) · [GitHub](https://github.com/mikElse)
+[LinkedIn](https://www.linkedin.com/in/mike-else-462a8a20) · [GitHub](https://github.com/mikElse) · [Web](https://www.mikelse.com)
