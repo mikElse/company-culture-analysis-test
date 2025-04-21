@@ -1,8 +1,11 @@
-pandas               # Data manipulation and analysis; used for cleaning and transforming CSV data
-sqlalchemy           # SQL toolkit and ORM for connecting Python to databases
-psycopg2-binary      # PostgreSQL adapter for Python; enables connection to Postgres DB
-jupyter              # Interactive coding notebooks for analysis and documentation
-matplotlib           # Core plotting library; used for creating visual charts
-seaborn              # Statistical data visualization built on matplotlib for trend analysis
-python-dotenv        # Loads environment variables from a .env file
-scikit-learn         # Machine learning library for classification, regression, clustering, and feature importance analysis
+pandas
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+python-dotenv
+scikit-learn
+jupyterlab==4.0.10
+jupyter-server==2.10.0
+jupyter-events==0.6.3
+jsonschema==4.17.3
