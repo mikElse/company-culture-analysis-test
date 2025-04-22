@@ -80,3 +80,7 @@ This dataset is **mock data** and not intended to reflect real-world employee or
 
 Created and maintained by **Mike Else**  
 [LinkedIn](https://www.linkedin.com/in/mike-else-462a8a20) · [GitHub](https://github.com/mikElse) · [Web](https://www.mikelse.com)
+
+---
+
+In loving memory of Regan Davis.
